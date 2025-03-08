@@ -1,0 +1,1355 @@
+[
+    {
+        "parte": "254387S",
+        "descripcion": "BAYONETA LARGA TANQ DIR HID 1 EDS-8981",
+        "categoria": "BAYONETAS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/254387S.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "3300922S",
+        "descripcion": "BASE ADPT. FILTRO LF-670",
+        "categoria": "BASES",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/3300922S.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1606KM",
+        "descripcion": "FILTRO AIRE GEN",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1606KM.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1733K",
+        "descripcion": "FILTRO AIRE AGRICOLA/CONSTRUCCION",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/AF1733K.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "3304173S",
+        "descripcion": "BASE ADAPT. FILTRO LF--777",
+        "categoria": "BASES",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/3304173S.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "FS-1251",
+        "descripcion": "FILTRO SEPARADOR DIESEL",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1251.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "FS-1000",
+        "descripcion": "FILTRO SEPARADOR DIESEL N14",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "S-10275",
+        "descripcion": "PALANCA DIREC FRGTLNR 01-4811-77 48522",
+        "categoria": "ACCESORIOS",
+        "img": "",
+        "marca": "NEWSTAR"
+    },
+    {
+        "parte": "S-11168",
+        "descripcion": "REP LIGAS TRANSM 18v K-3341",
+        "categoria": "TRANSMISION",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
+        "marca": "NEWSTAR"
+    },
+    {
+        "parte": "S-11874",
+        "descripcion": "GOBERNAD AIRE SECAD AD-IS 800361 5004049",
+        "categoria": "VALVULAS AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
+        "marca": "NEWSTAR"
+    },
+    {
+        "parte": "42819",
+        "descripcion": "PALANCA DIREC FRGTLNR 01-4811-77 48522",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/42819-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "42820",
+        "descripcion": "BRAZO R LIMP NAV 3535050C3 PROSTAR",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/42820-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "42824",
+        "descripcion": "BRAZO LIMPIAB M2 FL112 22-72009-000 IZQ",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/42824-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "242-5529",
+        "descripcion": "JGO PLACAS UNIDORAS 4 BATERIAS POS/NEG",
+        "categoria": "SIST. ELECTRICO",
+        "img": "https://static.dormanproducts.com/images/product/icon/242-5529CD-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "242-5530",
+        "descripcion": "JGO PLACA UNIDOR ( + - ) 3 BATERIAS",
+        "categoria": "SIST. ELECTRICO",
+        "img": "https://static.dormanproducts.com/images/product/icon/242-5530-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "264-5002",
+        "descripcion": "CARTER MOTOR S60 DELAN 23521170/23522282",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/264-5002-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "264-5115",
+        "descripcion": "EMP PUNT C/ARNESS MAXXFORCE 1850500",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/264-5115-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "264-5122",
+        "descripcion": "EMP TAPA PUNT i313 C/ARNES 9 CON 431322",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/264-5122-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "285-5103",
+        "descripcion": "FLOTADOR TAQ COMB INTRNTNL 3596382C92",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/285-5103-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5101",
+        "descripcion": "GANCHO COFRE INTERNAT =451570 1689930C91",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5101-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5202",
+        "descripcion": "GANCHO COFRE R COLUM 17-15553-001 740207",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5202-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5203",
+        "descripcion": "GANCHO COFRE L COLUM 17-15553-000 740206",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5203-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5204",
+        "descripcion": "GANCHO COFRE L FRGTL 17-12435-000 740208",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5204-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5205",
+        "descripcion": "GANCHO COFRE R FL120 17-12435-001 740209",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5205-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5206",
+        "descripcion": "KIT GANCHO/ANCLA COFRE M2 6808800160",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5206-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5401",
+        "descripcion": "KIT GANCHO COFRE T600 L56-0001 COMP S-18",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5401-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5402",
+        "descripcion": "KIT GANCHO ANCLA COFRE T800 K147-107",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5402-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5503",
+        "descripcion": "GANCHO COFRE T660 FHL-5171",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5503-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "315-5507",
+        "descripcion": "REP P/TROMPO COFRE VOLVO 8089035",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/315-5507CD-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "741-5403",
+        "descripcion": "ELEVADOR CRISTAL IZQ KW C/MOTOR R21-1005",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/741-5403-51792-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "741-5404",
+        "descripcion": "ELEVADOR CRISTAL KW ELECTR DER R21-1005R",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/741-5404-51792-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "888-5105",
+        "descripcion": "FARO R C/CUARTO DIR 4300/4400 4020384C1",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/888-5105-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "888-5106",
+        "descripcion": "FARO L C/CUARTO DIR 4300/4400 4020383C1",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/888-5106-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "888-5201",
+        "descripcion": "FARO R COLUMBIA A06-75737-003 S-19778",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/888-5201-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "888-5202",
+        "descripcion": "FARO PRINCIP COLUMBIA L A06-75737-000",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/888-5202-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "888-5207",
+        "descripcion": "FARO CASCADIA DER NEBLINER A06-51908-001",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/888-5207-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "888-5208",
+        "descripcion": "FARO CASCADIA IZQ NEBLINER A06-51908-000",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/888-5208-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5101",
+        "descripcion": "JGO SWITCH CRUCERO VOLANTE PROSTAR",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5101-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5202",
+        "descripcion": "SWITCH CONTROL ESPEJOS CASCADIA 15829700",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5202-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5203",
+        "descripcion": "SWITCH ELEV CRISTAL CASCADIA DTL12862662",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5203-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5204",
+        "descripcion": "SWITCH ELEV CRISTAL PTA M2 A06-30769-008",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5204-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5205",
+        "descripcion": "SWITCH ELEV CRISTAL COLUMB A06-30769-027",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5205-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5206",
+        "descripcion": "SWITCH TABLERO LUCES FRGTL A06-30769-010",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5206-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5208",
+        "descripcion": "SWITCH LUCES FRONT CASCADIA A06-58685-00",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5208-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5401",
+        "descripcion": "SWITCH CONTROL ESPEJOS T660 P27-10980-01",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5401-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5412",
+        "descripcion": "SWITCH FRENO MOTOR T660 P27-1040-16",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5412-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5413",
+        "descripcion": "SWITCH 3 PASOS F MOTOR P27-1040-17 T660",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5413-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-SCAN",
+        "descripcion": "SCANNER HEAVY DUTY MOVIL",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-SCAN-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5220",
+        "descripcion": "JGO LLAVES CILINDR CASCADIA A22-63159-00",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5220-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5222",
+        "descripcion": "TOPE COFRE M2 R A17-13534-001",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5222-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5223",
+        "descripcion": "TOPE COFRE M2 L A17-13534-000",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5223-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5405",
+        "descripcion": "CUBRE POLVO PALANCA T600 K042-79 S-22756",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5405-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5407",
+        "descripcion": "HULE CUBRE POLVO INF T600 PALANC K042-80",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5407-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5505",
+        "descripcion": "BUJE SOP CABINA VOLVO 8074666 500-194",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5505-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "938-5102",
+        "descripcion": "RESORTE COFRE 9400 3588532C2 S-21122 INT",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/938-5102-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "938-5408",
+        "descripcion": "RESORTE COFRE T600 T800 K224-81 S-20948",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/938-5408-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "955-5204",
+        "descripcion": "ESPEJO R COFRE CASCADIA A22-66565-003",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/955-5204-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "955-5205",
+        "descripcion": "ESPEJO L COFRE CASCADIA A22-66565-002",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/955-5205-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "978-5201",
+        "descripcion": "PALANCA DIR MULTIF M2 A06-36956-003",
+        "categoria": "ACCESORIOS",
+        "img": "https://static.dormanproducts.com/images/product/icon/978-5201-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5103",
+        "descripcion": "SWITCH PEDAL CLUTCH 2505658C91 PROSTAR",
+        "categoria": "CLUTCH",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5103-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "901-5207",
+        "descripcion": "MICRO PEDAL CLUTCH CASCAD S965-001-009-2",
+        "categoria": "CLUTCH",
+        "img": "https://static.dormanproducts.com/images/product/icon/901-5207CD-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-6011",
+        "descripcion": "CILINDRO CLUTCH CABINA T680 E17-6011",
+        "categoria": "CLUTCH",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-6011-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-6012",
+        "descripcion": "CILINDRO EMB KW T680 T880 E17-6012",
+        "categoria": "CLUTCH",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-6012-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-6014",
+        "descripcion": "CILINDRO EMB KW T880 E17-6014",
+        "categoria": "CLUTCH",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-6014-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "CM640200",
+        "descripcion": "CILINDRO MAESTRO P/VOLVO 8085690 S-19785",
+        "categoria": "CLUTCH",
+        "img": "https://static.dormanproducts.com/images/product/icon/CM640200-001.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5213",
+        "descripcion": "KIT RESPIRADERO DIF KIT2902 A1199P1394",
+        "categoria": "DIFERENCIAL",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5213-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "602-5403",
+        "descripcion": "BRAZO LIMP KW T600 IZQ GS-4885 R23-1029-",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/602-5403-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "602-5404",
+        "descripcion": "BRAZO LIMPIAPAR R GS-4886 R23-1029-13",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/602-5404-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "602-9210AS",
+        "descripcion": "SIST LIMPIAB C/MOTOR ELEC PROSTAR",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/602-9210AS-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "602-9911AS",
+        "descripcion": "SIST LIMPIAB KW T660 C/MOTOR ELECT",
+        "categoria": "LIMPIAPARABRISAS",
+        "img": "https://static.dormanproducts.com/images/product/icon/602-9911AS-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "285-5102",
+        "descripcion": "JGO LIGAS BBA ALTA PRES DT466 1825685",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/285-5102-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "635-128",
+        "descripcion": "LIGA BBA ALTA PRES 7.3 CEDAZO 1831316C2",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/635-128-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5504",
+        "descripcion": "TAPON ACEITE ISX ROJO VOLVO 20807510",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5504-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-204",
+        "descripcion": "TAPA FILTRO ACEITE DT466E/530 1840754C91",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-204CD-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-223",
+        "descripcion": "REP ENF ACEITE 7.3 T VJO 180881 1804377",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-223-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-225",
+        "descripcion": "KIT ENF ACEITE DT466 1815904C2 =441412",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-225-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-262",
+        "descripcion": "KIT ENFRIADOR GAS EGR NAV 6.0 1845145C96",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-262-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5020",
+        "descripcion": "KIT ENF GAS ESC EGR DT466/DT570 11 1/2",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5020-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5022",
+        "descripcion": "KIT ENFRIADOR GAS ESC EGR DT466 23 3/4",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5022-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5023",
+        "descripcion": "KIT ENF GASES ESC EGR DT466E 28  1832542",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5023-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5024",
+        "descripcion": "KIT ENF GASES ESC EGR ISX 4309398",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5024-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5031",
+        "descripcion": "KIT ENF GAS ESC EGR MAXXFORCE 15.5",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5031-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5032",
+        "descripcion": "KIT ENF GAS ESC EGR MAXXFORCE CUAD",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5032-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5062",
+        "descripcion": "VALV SELENOID ESC EGR i313 MAXXF 1842593",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5062-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5080",
+        "descripcion": "VALV SELENOID ESC EGR i313 MAXXF 1842593",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5080-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5080",
+        "descripcion": "KIT ENF GAS ESC EGR X15 4352360 4309491",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5080-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5097",
+        "descripcion": "VALVULA SIST EGR ESC ISX 4955422",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5097-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5101",
+        "descripcion": "KIT ENF ACEITE 466E i313 1842530 441413",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5101-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5154",
+        "descripcion": "ABRAZAD ESC EGR ISX 3683144 042029 3 1/2",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5154-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7004",
+        "descripcion": "MANG REDUC DUCTO ADM EGR ISX 3687223",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7004-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7125",
+        "descripcion": "BOBINA FRENO MOTOR =024613 3871707",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7125-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7937",
+        "descripcion": "BOMBA MAN COMB DT466/530 1841655 480246",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7937-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "917-5201",
+        "descripcion": "BAYONETA NIV ACEIT MOT S60 23534354 30.5",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/917-5201-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "917-5501",
+        "descripcion": "BAYONETA 25  ACEITE ISX P/VOLVO 20576425",
+        "categoria": "MOTOR",
+        "img": "https://static.dormanproducts.com/images/product/icon/917-5501-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "505-5201",
+        "descripcion": "SENSOR TACOMETRO 1 ARNES 990-K",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/505-5201-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "505-5407",
+        "descripcion": "SENSOR VEL TRANSM K-4148 K-3454 2 PINS",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/505-5407-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "505-5408",
+        "descripcion": "SENSOR VEL TRANSM 4 PIN K-4151 K-3455",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/505-5408-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7017",
+        "descripcion": "SENSOR POS C15 201-6617 194-5341 350621",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7017-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7027",
+        "descripcion": "SENSOR PRES ACEITE C15 194-6725 350596",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7027-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7031",
+        "descripcion": "SENSOR PRE ACEIT C15 ACERT 224-4535 3506",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7031-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7033",
+        "descripcion": "SENSOR PRES ADM 194-6724/161-9929 350595",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7033-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7044",
+        "descripcion": "SENSOR TEMP 130-9811/264-4297 350602 C15",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7044-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7109",
+        "descripcion": "SENS PRES TEMP ACEITE 4921475 050661",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7109-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7113",
+        "descripcion": "SENSOR PRE AD N14 4921501/3084521 050652",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7113-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7130",
+        "descripcion": "SENSOR PRES ADM TURB ISX 4921324-050626",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7130-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7143",
+        "descripcion": "SENS POS N14 C+ 2872362 3408503 050700",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7143-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7244",
+        "descripcion": "SENSOR PRES TURB ADM S60 23522322 650641",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7244-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7247",
+        "descripcion": "SENSOR POSICION S60 8929387-650665",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7247-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7251",
+        "descripcion": "SENSOR POSICION S60 8929388-650666",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7251-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7252",
+        "descripcion": "SENSOR NIV REFRIG S60 mm 23522855 650648",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7252-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7254",
+        "descripcion": "SENSOR PRES TURB S60 EGR 23527829 650681",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7254-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7469",
+        "descripcion": "SENSOR PRES COMB ISX T660 Q21-1033",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7469-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7502",
+        "descripcion": "SENSOR PRES ICP INY 466E 1830669 450582",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7502-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7516",
+        "descripcion": "SENSOR POS CIG VT365 i313 450649 1828345",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7516-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7520",
+        "descripcion": "SENSOR PRES GAS ESC DT466 1850351 450619",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7520-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7550",
+        "descripcion": "SENSOR NIV REF DT466E 2587324C1 2518062C",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7550-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7631",
+        "descripcion": "SENSOR NIV REFRIG T660 N9267001 S-23845",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7631-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7650",
+        "descripcion": "SENSOR PRES AIRE Q21-1041 KW 730397",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7650-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7703",
+        "descripcion": "SENSOR CORTO NIV REF VOLVO 3ra 853716",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7703-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-7772",
+        "descripcion": "POTENCIOMETRO 6 PIN DORMAN 131973/131040",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-7772-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-9917",
+        "descripcion": "TERMOCOPLE P/PIROMETRO KW Q21-1035",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-9917-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "917-710",
+        "descripcion": "SENSOR POSIS 7.3 VT365 1835985C1 S-20620",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/917-710-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-5205",
+        "descripcion": "SENS NIV REFRIG CASCADIA 06-62384-002",
+        "categoria": "SENSORES",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-5205-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "699-5102",
+        "descripcion": "PEDAL ACELERADOR 4300 2596214",
+        "categoria": "SIST. ELECTRICO",
+        "img": "https://static.dormanproducts.com/images/product/icon/699-5102-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "699-5104",
+        "descripcion": "PEDAL ACELERADOR 4900 INTRNTN 2594318C92",
+        "categoria": "SIST. ELECTRICO",
+        "img": "https://static.dormanproducts.com/images/product/icon/699-5104-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-1316",
+        "descripcion": "TANQUE REC CASCADIA T NVO A05-32836-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-1316-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5101",
+        "descripcion": "TANQUE RECUP INTER 4000 481860 2002105C",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5101-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5103",
+        "descripcion": "TANQ REC INTRNTNL 9400 2508700C9 S-21945",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5103-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5104",
+        "descripcion": "TANQUE REC 4300 2602943C91 481863 2 TUBO",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5104-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5105",
+        "descripcion": "TANQUE RECUP PROSTAR 2591620C91 S-26138",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5105-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5106",
+        "descripcion": "TANQ FLUIDO DIR HID INTRNTNL 3558153C93",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5106-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5107",
+        "descripcion": "TANQUE REC INTRNTNL 7300 2587216C1",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5107-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5110",
+        "descripcion": "TANQUE REC 4300 2602935C9 S-19855 1 TUBO",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5110-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5120",
+        "descripcion": "TANQUE INTNRN 9200 2 TUBOS 2587279C92",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5120-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5124",
+        "descripcion": "TANQUE RECUP INTNTNL LT625 3583605C1",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5124-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5132",
+        "descripcion": "TANQUE RECUP INTRNTL 7600 2594380C1 WORK",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5132-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5201",
+        "descripcion": "TANQUE REC FRGTNR CO 05-23045-001",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5201-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5202",
+        "descripcion": "TANQUE RECUP FRGTLNR M2 05-23195-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5202-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5203",
+        "descripcion": "TANQUE RECUP CASCADIA 05-25263-005",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5203-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5204",
+        "descripcion": "TANQ LIMPIAPARAB CASCADIA A22-60952-004",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5204-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5206",
+        "descripcion": "TANQUE DIR HIDR M2 14-19133-000 14-14796",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5206-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5207",
+        "descripcion": "TANQUE RECUP M2 2012-2019 A05-28531-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5207-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5211",
+        "descripcion": "TANQUE RECUP STERLING A05-23573-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5211-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5214",
+        "descripcion": "TANQUE LIMPIAPARABRISAS M2 A22-58778-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5214-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5219",
+        "descripcion": "TANQUE RECUP FLD120 A05-23574-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5219-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5245",
+        "descripcion": "TANQUE RECUP KW T680/880 DR104002",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5245-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5247",
+        "descripcion": "TANQUE REC PROSTAR MAXXFORCE 2604896C1",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5247-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5401",
+        "descripcion": "TANQ LIMPIAPARAB KW T800 K114-20",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5401-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5402",
+        "descripcion": "TANQUE LIQ LIMPIABRIS T680 KW N5355001",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5402-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5403",
+        "descripcion": "TANQUE RECUP T660 KW N5346001",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5403-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5502",
+        "descripcion": "TANQUE RECUP MACK CV 25174629",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5502-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5504",
+        "descripcion": "TANQUE RECUP VOLVO 610 S-22161 20519037",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5504-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5505",
+        "descripcion": "TANQ RECUP 3a VOLVO 22061290 S-22162",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5505-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5507",
+        "descripcion": "TANQUE REC VOLVO 1674916 2a GEN 803870",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5507-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5510",
+        "descripcion": "TANQUE RECUP VOLVO NR64 3966106 1A GEN",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5510-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5565",
+        "descripcion": "TANQUE FLUIDO DIR HID INTRNTL 1686736",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5565-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5569",
+        "descripcion": "TANQUE DEP DIR HID VOLVO 1592945 042-200",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5569-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "603-5570",
+        "descripcion": "TANQUE RECUP KW T680 DR104004 MANG 1/2",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/603-5570-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-0064",
+        "descripcion": "TAPON TANQ REC VOLVO 20968839 S-21760",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-0064-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5101",
+        "descripcion": "TAPON TANQ REC 10 LBS 2039390C3 ERC-8393",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5101-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5102",
+        "descripcion": "TAPON TANQ REC 15 L 481870 3578833 31405",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5102-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5127",
+        "descripcion": "TAPON TANQ LIMPIAPARAB M2 22-58581-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5127-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5401",
+        "descripcion": "TAPON TANQ REC KW LIMPIAP C5720S",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5401-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5402",
+        "descripcion": "TAPON TANQ RECUP T660 N5348001 15 lbs",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5402-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5403",
+        "descripcion": "TAPON TANQ REC T660 RC0050 CASCADIA",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5403-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "902-5502",
+        "descripcion": "TAPON RAD 10 LBS BCA CHICA 31521 T-9",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/902-5502-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "904-5201",
+        "descripcion": "TAPON TANQ UREA CASCADIA 04-27757-000",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/904-5201-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "917-5506",
+        "descripcion": "TAPON BAYONETA DEP HID DIR Q347137",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/917-5506-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "917-5517",
+        "descripcion": "BAYONETA DEP HID INTRNT 1691125C1",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/917-5517-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "924-1060",
+        "descripcion": "BAYONETA DEP HID INTRL 2507059C1",
+        "categoria": "TANQUE",
+        "img": "https://static.dormanproducts.com/images/product/icon/924-1060-007.JPG",
+        "marca": "DAYTON DORMAN"
+    },
+    {
+        "parte": "001-220A",
+        "descripcion": "GRANADA SUSP KW 2 3/4 836940 ",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/090.025.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "030-211",
+        "descripcion": "SOP TRAS MOTOR VOLVO 1629614 3198122",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/030.211.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "030-286-1",
+        "descripcion": "SOP DEL MOTOR VOLVO ISX N14 20503550 51",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/030.286_1.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "030-287",
+        "descripcion": "SOP TRAS MOTOR VOLVO 3a 20399992",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/030.287.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "030-295",
+        "descripcion": "SOP TRAS MOTOR VOLVO 20499469",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/030.295.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "030-298-01",
+        "descripcion": "BOLSA AIRE CAB 21165207 VOLVO",
+        "categoria": "BOLSAS DE AIRE",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/030.298-01.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "042-200",
+        "descripcion": "BOLSA AIRE CAB 21165207 VOLVO",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/042.200.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "090-025",
+        "descripcion": "RONDANA RESP TCA EJE FHF E-1561",
+        "categoria": "EJES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/090.025.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "090-036",
+        "descripcion": "TUERCA ESPIGA EJE PROPAR FHF =1HV35",
+        "categoria": "EJES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/090.036.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "094-548",
+        "descripcion": "KIT MUELAS 5ta RUEDA RK-351-07296",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/094.548.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "094-739",
+        "descripcion": "REP 5TA RUEDA FONTAINE RPR-5092R",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/094.739.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "096-33153",
+        "descripcion": "JGO PATINES REMOLQUE UNIVERSAL SAMPA",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/096.33153.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-274",
+        "descripcion": "GUIA COFRE FRGTLNR FL120 DT-1122 11020",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.274.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-928",
+        "descripcion": "BUJE COFRE FRGHTLNR DT-1125 11019",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.928.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-929",
+        "descripcion": "GUIA SOP COFRE T600 DT-26 11545",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.929.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-461",
+        "descripcion": "REP HULE C/TORN/BJES PALANCA VEL K3399",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.461.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-643",
+        "descripcion": "GANCHO COFRE INTRNTNL 451572 3544924C1",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.643.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-941",
+        "descripcion": "BASE SOP COLUM DIR T660 R13-1014 TTP9350",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.941.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-976",
+        "descripcion": "SOP CAB FRGTLNR M2 18-67081-000",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.976.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-977",
+        "descripcion": "SOP CAB FRGTLNR CASCADIA 18-59922-00",
+        "categoria": "ACCESORIOS",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.977.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-681-01",
+        "descripcion": "BOLSA AIRE CAB COLUMB 7206 67452",
+        "categoria": "BOLSAS DE AIRE",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.681-01.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-807-01",
+        "descripcion": "BOLSA AIRE CAB FLD120 1S5-040 7087 67636",
+        "categoria": "BOLSAS DE AIRE",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.807-01.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-867-01",
+        "descripcion": "BOLSA AIRE CAB =7207 7215 68161 18-40977",
+        "categoria": "BOLSAS DE AIRE",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.867-01.jpg",
+        "marca": "SAMPA"
+    }
+
+
+]

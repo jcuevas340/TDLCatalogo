@@ -1,0 +1,173 @@
+@keyframes appear{
+    from{
+        opacity: 0;
+        scale: 0.4;
+    } to{
+        opacity: 1;
+        scale: 1;
+    }
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu-horizontal{
+    margin: 0;
+    padding-left: 0;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    height: 100%;
+}
+
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #037c3f;
+}
+
+.active:hover{
+    background-color: #037c3f;
+}
+
+.buscador{
+    background-color: rgb(2, 0, 135);
+    justify-items: center;
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+
+.elementos-buscador{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    margin: 0;
+    padding: 1rem 0 0.2rem 0;
+    color: #ffe600;
+    font-size: 24px;
+}
+
+#buscar, #btn-buscar{
+    margin: 0.5rem 1rem;
+}
+
+#buscar{
+    background-color: rgb(250, 253, 255);
+    width: 70vw;
+    height: 2rem;
+    border: none;
+    border-radius: 1.5rem;
+    padding-left: 1rem;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+#buscar:focus{
+    outline: none;
+}
+
+#btn-buscar{
+    background-color: rgb(2, 0, 135);
+    border: none;
+}
+
+#btn-buscar:hover{
+    cursor: pointer;
+}
+
+#img-buscar{
+    width: 2rem;
+    height: 2rem;
+    border: none;
+}
+
+/* Empieza estilo de productos */
+.contenedor{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#container{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    z-index: -1;
+}
+
+.producto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25vw;
+    height: 15rem;
+    background-color: #037c3f;
+    border-radius: 10px;
+    margin: 10px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 20%;
+    position: relative;
+    z-index: 1; /* Menor que .mas */
+    overflow: visible;
+}
+
+.parte{
+    color: #ffe600;
+    margin-bottom: 0.01rem;
+}
+
+.descripcion{
+    text-align: center;
+    margin: 0.1rem 0 0 0;
+    padding: 0.5rem 0 0.5rem 0;
+    background-color: rgb(2, 0, 135);
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+    color: aliceblue;
+}
+
+
+.imagen{
+    border-radius: 5px;
+    margin-top: 0.5rem;
+    pointer-events: none;
+}
+
+#categoria{
+    color: #ffe600;
+    background-color: rgb(2, 0, 135);
+    border: #ffe600 5px solid;
+    border-radius: 25px;
+    font-weight: 700;
+}
