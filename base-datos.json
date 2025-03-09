@@ -1783,6 +1783,181 @@
         "categoria": "BOLSAS DE AIRE",
         "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/SP%20559978-KP.jpg",
         "marca": "SAMPA"
+    },
+    {
+        "parte": "096-310",
+        "descripcion": "CILINDRO MAESTRO P/VOLVO =20835248",
+        "categoria": "CLUTCH",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/096.310.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-234",
+        "descripcion": "BRAZO VIAJERO 14-17273-000 14-12479-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.234.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-242",
+        "descripcion": "BRAZO DIREC INTRNTNL 3534115C91",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.242.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-620B",
+        "descripcion": "JGO PERNOS DEL 328349 BF868 1460SC102",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.620B.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-899",
+        "descripcion": "BRAZO VIAJERO FL120 14-12098-005 24VU80",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.899.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-316",
+        "descripcion": "BRAZO DIR FRGT 14-12098-001 L24VU8031C11",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.316.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-348",
+        "descripcion": "BRAZO DIR CASCA COLUM 14-17298-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.348.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-173",
+        "descripcion": "BBRAZO VIAJERO CASCADIA 14-18528-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.173.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-177",
+        "descripcion": "BRAZO DIRECC PROSTAR 3595265C93",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.177.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-178",
+        "descripcion": "BRAZO FRGTLNR 14-16330-000 14-17322-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.178.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-894",
+        "descripcion": "TUERCA EJE SUDISA EXT CH C4701",
+        "categoria": "EJES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.894.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "096-540",
+        "descripcion": "JGO MUELAS 5a RDA HOLLAND T VJO RK-63503",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/096.540.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "211-295",
+        "descripcion": "SOP QUINTA RUEDA 11517 DT1590 S-21095",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/211.295.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-199",
+        "descripcion": "PERNO REY 3/8 SAMPA P/REMOLQ",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.199.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-200",
+        "descripcion": "PERNO REY 1/2 SAMPA P/5TA RUEDA REMOLQ",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.200.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-666",
+        "descripcion": "BUJE QUINTA RDA FONTINE DT-1594 10002",
+        "categoria": "5ta RUEDA",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.666.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "202-133",
+        "descripcion": "EMP MULT ESC 906/926/904/924 A9061420280",
+        "categoria": "MOTOR",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/202.133.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "203-006",
+        "descripcion": "BOMBA AGUA MB OM 460 A4572000501 HP-460",
+        "categoria": "MOTOR",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/203.006.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "105-445",
+        "descripcion": "RONDANA CONCENTRICA QUICK ALING S-20924",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/105.445.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "105-458",
+        "descripcion": "RONDANA EXCENTRICA QUICK ALING S-20925",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/105.458.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-547/SD",
+        "descripcion": "KIT BUJE TRIFUNCI HKA-180 SUSP =S-26321",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.547_SD.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-550",
+        "descripcion": "BUJE TRIF QUIKALING S-24691 C/RONDANAS",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.550.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-564",
+        "descripcion": "KIT BUJE TRIF SUSP HENRCKSN S-6914 1 1/8",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.564.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-576",
+        "descripcion": "GRANADA P/ SUSP = 47691-000 TIPO HNDRCKS",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.576.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-188",
+        "descripcion": "KIT SUSP TIPO HNDRKSN HT300 COMPLETA",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.188-01.jpg",
+        "marca": "SAMPA"
     }
 
 
