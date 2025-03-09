@@ -1783,6 +1783,76 @@
         "categoria": "BOLSAS DE AIRE",
         "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/SP%20559978-KP.jpg",
         "marca": "SAMPA"
+    },
+    {
+        "parte": "096-310",
+        "descripcion": "CILINDRO MAESTRO P/VOLVO =20835248",
+        "categoria": "CLUTCH",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/096.310.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-234",
+        "descripcion": "BRAZO VIAJERO 14-17273-000 14-12479-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.234.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-242",
+        "descripcion": "BRAZO DIREC INTRNTNL 3534115C91",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.242.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-620B",
+        "descripcion": "JGO PERNOS DEL 328349 BF868 1460SC102",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.620B.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-899",
+        "descripcion": "BRAZO VIAJERO FL120 14-12098-005 24VU80",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.899.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-316",
+        "descripcion": "BRAZO DIR FRGT 14-12098-001 L24VU8031C11",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.316.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-348",
+        "descripcion": "BRAZO DIR CASCA COLUM 14-17298-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.348.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-173",
+        "descripcion": "BBRAZO VIAJERO CASCADIA 14-18528-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.173.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-177",
+        "descripcion": "BRAZO DIRECC PROSTAR 3595265C93",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.177.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-178",
+        "descripcion": "BRAZO FRGTLNR 14-16330-000 14-17322-000",
+        "categoria": "DIRECCION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.178.jpg",
+        "marca": "SAMPA"
     }
 
 
