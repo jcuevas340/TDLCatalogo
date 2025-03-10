@@ -57,12 +57,13 @@ function mostrarResultados(productos) {
         img.src = producto.img;
         img.alt = producto.parte;
         img.width = 150;
-        img.height = 150;
+        img.height = 130;
         img.classList.add("imagen");
         img.style.objectFit = "cover";
 
         let h2 = document.createElement("h2");
         h2.classList.add('parte');
+        h2.classList.add("sampa-h2");
         h2.textContent = producto.parte;
 
         let p = document.createElement("p");
