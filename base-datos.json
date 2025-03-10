@@ -69,6 +69,8 @@
         "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
         "marca": "NEWSTAR"
     },
+
+
     {
         "parte": "42819",
         "descripcion": "PALANCA DIREC FRGTLNR 01-4811-77 48522",
@@ -1189,6 +1191,8 @@
         "img": "https://static.dormanproducts.com/images/product/icon/924-1060-007.JPG",
         "marca": "DAYTON DORMAN"
     },
+
+
     {
         "parte": "001-220A",
         "descripcion": "GRANADA SUSP KW 2 3/4 836940 ",
@@ -1958,7 +1962,255 @@
         "categoria": "SUSPENSION",
         "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.188-01.jpg",
         "marca": "SAMPA"
+    },
+    {
+        "parte": "500-194",
+        "descripcion": "BUJE SOP CAB VOLVO 924-5505 8074666",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.194.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-217",
+        "descripcion": "SOP TRAS MOTOR INTRN DT-1897 1664728C1",
+        "categoria": "SUSPENSION",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.217.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-219",
+        "descripcion": "SOPORTE TRAS MOTOR INTNL. 9200/9400",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.219.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-264",
+        "descripcion": "SOP CAB INTRNL DT-1812 PROSTAR 5/8",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.264.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-268",
+        "descripcion": "SOP CAB FREGLTNR 11009 DT-1110",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.268.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-277",
+        "descripcion": "CONTRA SOP CAB FRGTLNR DT-1111 11008",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.277.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-287",
+        "descripcion": "BUJE P/POST ENF M200-70EP DT-1419",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.287.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-300",
+        "descripcion": "SOP CAB FRGTLNR 740308 18-41005-000",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.300.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-314",
+        "descripcion": "SOP CAB INTRNTNL 34515 DT-1881 3/4",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.314.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-822",
+        "descripcion": "SOP TRA MOTOR FRGT 11065 DT1130",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.822.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-828",
+        "descripcion": "SOP BASE RADIADOR M2 FRGTLN LORSM10356",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.828.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-844",
+        "descripcion": "SOP DEL MOTOR KW T600 11615 DT-1433",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.844.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-845",
+        "descripcion": "SOP MOTOR CAB RAD KW DT-1423 11520",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.845.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-846",
+        "descripcion": "CONTRA REDONDA SOP TRAS MOTOR INTRTNL",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.846.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-849",
+        "descripcion": "SOP TENSOR RAD KW DT-1427 11549",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.849.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-852",
+        "descripcion": "SOP TRAS MOT C/CASQ DT-1880C 10075",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.852.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "500-930",
+        "descripcion": "REP SOP CAB FRGTLNR COLUMB 11075 DT-1108",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/500.930.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-203",
+        "descripcion": "KIT SOP/CONTRA MOT TRAS KW DT1425 DT1426",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.203.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-209",
+        "descripcion": "SOP TRAS MOTOR FRGTLNR DT-1105 11077",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.209.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-211",
+        "descripcion": "SOP DEL MOTOR FRGTLNR 11074 DT-1103",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.211.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-212",
+        "descripcion": "SOP DEL MOTOR FRGTLNR DT-1132 11018",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.212.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-766",
+        "descripcion": "BUJE SOP CAB T600 T800 K066-177 M500-70N",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.766.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-939",
+        "descripcion": "SOP TRAS MOTOR ISX T660 4 3/4 12447",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.939.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-940",
+        "descripcion": "SOP TRAS MOT KW T660 4 1/4 ALT 11681",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.940.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-971",
+        "descripcion": "SOP TRAS MOTOR INTNRNL 3549169C2 14916",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.971.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-972",
+        "descripcion": "SOP TRAS MOTOR KW T680 17499 12448",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.972.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-973",
+        "descripcion": "SOP TRAS MOTOR CASCADIA 01-34070-000",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.973.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-974",
+        "descripcion": "SOP TRAS MOT CASCADIA 01-34070-000",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.974.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-200",
+        "descripcion": "SOP TRAS MOTOR T880 17498 17496 30027",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.200.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-202",
+        "descripcion": "SOP TRAS MOT CASCADIA J2618529 COLUMB",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.202.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-203",
+        "descripcion": "SOP TRA MOTOR CASCADIA 01-35308-000",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.203.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "502-649",
+        "descripcion": "SOP TRAS MOTOR T880 17498 30026 17496",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.649.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "M59013",
+        "descripcion": "SOP DEL CAB KW T680/660 R62-6013",
+        "categoria": "SOPORTES",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/502.359.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "202-452-01",
+        "descripcion": "FILTRO SECADOR AD-IS R950011",
+        "categoria": "FRENOS DE AIRE",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/202.452-01.jpg",
+        "marca": "SAMPA"
+    },
+    {
+        "parte": "501-017",
+        "descripcion": "KIT REP GAV T. HNDRCKSN K2505 S-26348",
+        "categoria": "FRENOS DE AIRE",
+        "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.017.jpg",
+        "marca": "SAMPA"
     }
 
+
+
+    
 
 ]
