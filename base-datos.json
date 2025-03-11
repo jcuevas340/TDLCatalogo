@@ -2207,6 +2207,531 @@
         "categoria": "FRENOS DE AIRE",
         "img": "https://image.b2bolt.shop/8AAC76D8-8062-4687-8D15-2394AA0DFCF9/images/501.017.jpg",
         "marca": "SAMPA"
+    },
+    {
+        "parte": "CC-2602",
+        "descripcion": "KIT PRUEBA ANTICONGELANTE FLEETGUARD",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2602.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "CC-2610",
+        "descripcion": "RESTORE FLEETGUARD 1 GL. LIMPIADOR",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2610.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "CC-2820",
+        "descripcion": "GALON REFRIGERANTE CONCENTRADO EG",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2820.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "CC-2825",
+        "descripcion": "GALON REFRIG FLEETGUARD 50/50 EG 3.78L",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2825.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "CC-2847",
+        "descripcion": "PORRON REFRIGERANT FLEETGUARD CONCEN 5GL",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2847.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "CC-2848",
+        "descripcion": "PORRON REFRIGERANTE 50/50 FLEETGUARD 5gl",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2848.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "DCA60L",
+        "descripcion": "BOTE INHIBIDOR DE CORROSION 473 ML",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/DCA60L.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-14000NN",
+        "descripcion": "FILTRO ACEITE isx LF-9080 P559000",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF14000NN.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16015",
+        "descripcion": "FILTRO ACEITE FLEETGUARD P550520",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16015.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16046",
+        "descripcion": "FILTRO ACEITE M2 DD15 A0001801709 CASCAD",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16046.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16087",
+        "descripcion": "FILTRO ACEITE PLANTA GENERACION",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16087.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16110",
+        "descripcion": "FILTRO ACEITE HINO 500 (57190)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16110.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16166",
+        "descripcion": "FILTRO ACEITE FORD 6.0 F450 P550528",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16166.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16173",
+        "descripcion": "FILTRO ACEITE P/JHON DEERE",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16173.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16233",
+        "descripcion": "FILTRO ACEITE P550812 1948921 MX13 PACCA",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16233.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16243",
+        "descripcion": "FILTRO ACEITE P550779 57750S",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16243.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-16465",
+        "descripcion": "FILTRO ACEITE D13/MP8 VOLVO 23151592",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16465.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17056",
+        "descripcion": "FILTRO ACEITE INTRNTNL MAN =LF-16244",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17056.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17356",
+        "descripcion": "FILTRO ACEITE FORD 6.0 / JAC",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17356.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17499",
+        "descripcion": "FILTRO ACEITE MAXXFORCE 9 / 10",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17499.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17501",
+        "descripcion": "FILTRO ACEITE ISUZU EO-1501 400007",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17501.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17511",
+        "descripcion": "FILTRO ACEITE CASCADIA DD15 A4731800109",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17511.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17514",
+        "descripcion": "FILTRO ACEITE MAXXFORCE 13 PROSTAR",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17514.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17519",
+        "descripcion": "FILTRO ACEITE MAXXFORCE =LF-17549",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17519.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17549",
+        "descripcion": "FILTRO ACEITE NAVISTAR LF-17519 3015784C",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17549.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-17810",
+        "descripcion": "FILTRO ACEITE MOTOR DD13 LF-1700",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17810.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3000",
+        "descripcion": "FILTRO ACEITE N14/L10/M11/C92 P553000",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF3000.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3313",
+        "descripcion": "FILTRO ACEITE DIF VOLVO PH8A =LF-689",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3313.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3333",
+        "descripcion": "FILTRO ACEITE FLEETGUARD (51970)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF3333.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3335",
+        "descripcion": "FILTRO ACEITE P/TRANSM",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3335.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3341",
+        "descripcion": "FILTRO ACEITE P/DIF 3280V8394 A3380W1687",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3341.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3342",
+        "descripcion": "FILTRO ACEITE =BT230 =HF-35323",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3342.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3344",
+        "descripcion": "FILTRO ACEITE FORD 7.3 V8",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3344.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3345",
+        "descripcion": "FILTRO ACEITE NAVISTAR (P558616)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3345.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3346",
+        "descripcion": "FILTRO ACEITE NAVISTAR P551604 GP-88",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3346.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3349",
+        "descripcion": "FILTRO ACEITE SERIE B P558615 1607",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3349.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3400",
+        "descripcion": "FILTRO ACEITE DIFERENCIAL M2/CASCADIA",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3400.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3455",
+        "descripcion": "FILTRO ACEITE NAVISTAR",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3455.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3462",
+        "descripcion": "FILTRO ACEITE GENER LF-3403 P550162 L200",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3462.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3564",
+        "descripcion": "FILTRO ACEITE L200 MOTOR DIESEL =LFP-805",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3564.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3620",
+        "descripcion": "FILTRO ACEITE MOTOR S-60",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3620.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3630",
+        "descripcion": "FILTRO ACEITE FORD 350 DIESEL P550371",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3630.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3654",
+        "descripcion": "FILTRO ACEITE VOLVO 21707135",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3654.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3675",
+        "descripcion": "FILTRO ACEITE P550519 23658111 VOLVO",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3675.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3689",
+        "descripcion": "FILTRO ACEITE HINO MITSUBISHI 360",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3689.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3703",
+        "descripcion": "FILTRO ACEITE P/JOHN DEERE",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3703.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3819",
+        "descripcion": "FILTRO ACEITE P/THERMO KING",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3819.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3783",
+        "descripcion": "FILTRO ACEITE P/TRACTOR AGRIC",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3783.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3827",
+        "descripcion": "FILTRO ACEITE MERCEDES OM 904(P550768)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3827.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3828",
+        "descripcion": "FILTRO ACEITE MITSUBISHI P502458 LFP3828",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3828.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3854",
+        "descripcion": "FILTRO ACEITE ISUZU P502042 LF-3807",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3854.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3883",
+        "descripcion": "FILTRO ACEITE NAVISTAR =LF-9026 P550367",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3883.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3914",
+        "descripcion": "FILTRO ACEITE M. BENZ P550761 LF-16144",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3914.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-3970",
+        "descripcion": "FILTRO ACEITE (P550428-P551019)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3970.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-516",
+        "descripcion": "FILTRO ACEITE (LF-516A)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF516.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-634",
+        "descripcion": "FILTRO ACEITE HID.",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF634.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-637",
+        "descripcion": "FILTRO ACEITE HID.",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF637.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-651",
+        "descripcion": "FILTRO ACEITE TRANSM.",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF651.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-654",
+        "descripcion": "FILTRO ACEITE THERMO KING",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF654.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-667",
+        "descripcion": "FILTRO ACEITE = 1R0739",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF667.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-670",
+        "descripcion": "FILTRO ACEITE PRIMARIO (P551671)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF670.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-680",
+        "descripcion": "FILTRO ACEITE P/JOHN DEERE",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF680.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-689",
+        "descripcion": "FILTRO ACEITE DIF NISSAN MOTOR =LF-3313",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF689.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-691",
+        "descripcion": "FILTRO ACEITE CAT P554105",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF691.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-691A",
+        "descripcion": "FILTRO ACEITE P/MOTOR CAT",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF691A.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-697",
+        "descripcion": "FILTRO ACEITE",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF697.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-699",
+        "descripcion": "FILTRO ACEITE PERKINS",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF699.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-734",
+        "descripcion": "FILTRO ACEITE ( LF-3478 )",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF734.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-750A",
+        "descripcion": "FILTRO ACEITE LUBER",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF750A.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-777",
+        "descripcion": "FILTRO ACEITE SECUND (P550777)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF777.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-9009",
+        "descripcion": "FILTRO ACEITE N14/M11/L10/ISC =LF-3000",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF9009.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-9025",
+        "descripcion": "FILTRO ACEITE DT466E EGR (P552025)",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9025.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-9030",
+        "descripcion": "FILTRO ACEITE T KING LFP-9182 CARRIER",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9030.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-9035",
+        "descripcion": "FILTRO ACEITE NAV i313",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9035.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "LF-9070",
+        "descripcion": "FILTRO ACEITE ISX SERV EXTENDIDO",
+        "categoria": "FILTRO ACIETE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9070.jpg",
+        "marca": "FLEETGUARD"
     }
 
 
