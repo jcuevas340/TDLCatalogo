@@ -156,8 +156,8 @@ h1{
     width: 100%;
     border-radius: 0 0 10px 10px;
     color: aliceblue;
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
 }
 
 .imagen{
