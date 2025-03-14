@@ -2732,6 +2732,867 @@
         "categoria": "FILTRO ACIETE",
         "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9070.jpg",
         "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2051",
+        "descripcion": "FILTRO REFRIGERANTE MOTOR",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/WF2051.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2071",
+        "descripcion": "FILTRO AGUA =A WF-2073",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/WF2071.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2073",
+        "descripcion": "FILTRO REFRIGERANTE 8u. DCA4",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2073.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2074",
+        "descripcion": "FILTRO AGUA 12u DCA4+",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2074.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2075",
+        "descripcion": "FILTRO AGUA 15 UNIDADES WF-2076",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2075.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2076",
+        "descripcion": "FILTRO REFRIGERANTE 23 u DCA4+ WF-2075",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2076.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2108",
+        "descripcion": "FILTRO AGUA VOLVO MACK",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2108.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2122",
+        "descripcion": "FILTRO REFRIGERANTE PACCAR MX13 1843659P",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2122.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2126",
+        "descripcion": "FILTRO P/REFRIGERTANTE ISX  P550866",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2126.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "WF-2127",
+        "descripcion": "FILTRO REFRIGERANTE ISX",
+        "categoria": "FILTRO AGUA",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2127.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1606KM",
+        "descripcion": "FILTRO AIRE GEN",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1606KM.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1733K",
+        "descripcion": "FILTRO AIRE AGRICOLA/CONSTRUCC",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/AF1733K.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1743M",
+        "descripcion": "FILTRO AIRE P/FRGTLNR 46840",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1743M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1758M",
+        "descripcion": "FILTRO AIRE FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1758M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1817",
+        "descripcion": "FILTRO AIRE FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/AF1817.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1817M",
+        "descripcion": "FILTRO AIRE CONICO FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1817M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1886M",
+        "descripcion": "FILTRO AIRE P/FORD  FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1886M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1890M",
+        "descripcion": "FILTRO AIRE MONTACARG CAT PRIMARIO",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1890M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1892",
+        "descripcion": "FILTRO AIRE SEC TRACTOR AGRICOLA",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1892.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1897M",
+        "descripcion": "FILTRO AIRE REF.FLEETGUARD VOLVO",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1897M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1943M",
+        "descripcion": "FILTRO AIRE FLEETGUARD (P181096)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1943M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1968",
+        "descripcion": "FILTRO AIRE KW/FRGTLNR. 46883 P153551",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/AF1968.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1968M",
+        "descripcion": "FILTRO AIRE REFORZADO FRGTL/KW",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1968M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-1969M",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1969M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25033M",
+        "descripcion": "FILTRO AIRE INTRNTNL FLEETGUARD P533235",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25033M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25075",
+        "descripcion": "FILTRO AIRE P/ VW WORKER 8-150",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25075.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25092M",
+        "descripcion": "FILTRO AIRE KW REF. FLTGRD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25092M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25119",
+        "descripcion": "FILTRO AIRE P/THERMO KING WA10060",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25119.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25125M",
+        "descripcion": "FILTRO AIRE PRIM CONST/AGRIC",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25125M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25126M",
+        "descripcion": "FILTRO AIRE SECUND CONST/AGRIC",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25126M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25135M",
+        "descripcion": "FILTRO AIRE FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25135M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25139M",
+        "descripcion": "FILTRO AIRE INTRNTNL/FRGT 46556",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25139M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25215",
+        "descripcion": "FILTRO AIRE SECUND  P527680 / 46429",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25215.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25247",
+        "descripcion": "FILTRO AIRE FLEETGUARD KW",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25247.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25248",
+        "descripcion": "FILTRO AIRE W900",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25248.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25255",
+        "descripcion": "FILTRO AIRE F450 DIESEL = 46417 LAF-1617",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25255.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25292",
+        "descripcion": "FILTRO AIRE MAQ CONST AF-25557",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25292.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25345",
+        "descripcion": "FILTRO AIRE SECUND 46628",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25345.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25354",
+        "descripcion": "FILTRO AIRE INTRNTNL/KW P533930-AF25359",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25354.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25429",
+        "descripcion": "FILTRO AIRE SEC (P533890)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25429.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25430",
+        "descripcion": "FILTRO AIRE SEC. DE (AF-25033M)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25430.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25434",
+        "descripcion": "FILTRO AIRE SEC CONSTRUCC",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25434.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25435",
+        "descripcion": "FILTRO AIRE VOLVO =P540388",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25435.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25454",
+        "descripcion": "FILTRO AIRE CONSTR / GENERAC P777868",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25454.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25484",
+        "descripcion": "FILTRO AIRE CONST. SECUND P829332",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25484.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25492",
+        "descripcion": "FILTRO AIRE GENER",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25492.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25551",
+        "descripcion": "FILTRO AIRE GENER = P821575 CARRIER",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25551.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25553",
+        "descripcion": "FILTRO AIRE (MOTOR GENERACION) P822768",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25553.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25555",
+        "descripcion": "FILTRO AIRE P/CASE FLEETGUARD P827653",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25555.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25557",
+        "descripcion": "FILTRO AIRE =(P828889/AF-25292) M-GENE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25557.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25558",
+        "descripcion": "FILTRO SECUND AIRE (P829333)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25558.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25598",
+        "descripcion": "FILTRO AIRE KW T2000",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25598.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25667",
+        "descripcion": "FILTRO AIRE KODIAK/FL70-80 46744 P532966",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25667.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25694",
+        "descripcion": "FILTRO AIRE INTRNTNL P539765 46507",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25694.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25707",
+        "descripcion": "FILTRO AIRE INTRNTNL 46870",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25707.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25708M",
+        "descripcion": "FILTRO AIRE MOTOR GENERACION",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25708M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25732",
+        "descripcion": "FILTRO AIRE SEC INTRNT 46871 P609239",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25732.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25904",
+        "descripcion": "FILTRO AIRE PLANTA GENERACION",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25904.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25910",
+        "descripcion": "FILTRO AIRE GEN PRIMARIO",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25910.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25911",
+        "descripcion": "FILTRO AIRE SEC GENER",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25911.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25962",
+        "descripcion": "FILTRO AIRE INTERNATIONAL CF600 P613334",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25962.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25963",
+        "descripcion": "FILTRO AIRE SEC GENERACION P613335",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25963.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-25964",
+        "descripcion": "FILTRO AIRE GENER. JOHN DEERE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF25964.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26094",
+        "descripcion": "FILTRO AIRE PLANTA GENERACION",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26094.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26103",
+        "descripcion": "FILTRO AIRE PROSTAR P613336 49088",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26103.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26113",
+        "descripcion": "FILTRO AIRE TIPO ROSCADO ISX / ISM",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26113.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26114",
+        "descripcion": "FILTRO AIRE SEC =46782",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26114.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26124",
+        "descripcion": "FILTRO AIRE MAQ CONST",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26124.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26152",
+        "descripcion": "FILTRO AIRE FORD F450 CARCAZA P603577",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26152.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26154",
+        "descripcion": "FILTRO AIRE FRGTLNR M2 42809 P607955",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26154.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26158",
+        "descripcion": "FILTRO AIRE FORD F-250/350 MOTOR DIESEL",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26158.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26162",
+        "descripcion": "FILTRO AIRE SECUNDARIO VOLVO BUS/CHATO",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26162.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26163M",
+        "descripcion": "FILTRO AIRE VOLVO 3a G 49126 P606720",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26162.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26168",
+        "descripcion": "FILTRO AIRE CARRIER THERMO P616641",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26168.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26211",
+        "descripcion": "FILTRO AIRE WORKER SEC   WA1513",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26211.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26235",
+        "descripcion": "FILTRO AIRE ACOND CABINA FRGTLNR P609422",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26235.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26268",
+        "descripcion": "FILTRO AIRE SECUND P613337 49089",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26268.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26287M",
+        "descripcion": "FILTRO AIRE MINIBUS MERCEDEZ P603232",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26287M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26288",
+        "descripcion": "FILTRO AIRE SECUND M BENZ",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26288.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26363",
+        "descripcion": "FILTRO AIRE P/MACK MP8 25100042",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26363.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26405",
+        "descripcion": "FILTRO AIRE ACOND CAB VOLVO 20435801",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26405.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26424",
+        "descripcion": "FILTRO AIRE M2 ANCHO P607965 P621097",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26424.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26427",
+        "descripcion": "FILTRO AIRE ACOND CAB FRGTL M2 P614547",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26427.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26430",
+        "descripcion": "FILTRO AIRE ACOND CAB PROSTAR 4316",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26430.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26435",
+        "descripcion": "FILTRO AIRE ACOND VOLVO 8089705",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26435.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26447",
+        "descripcion": "FILTRO AIRE ACOND CAB T2000/ PETERBILT",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26447.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-26657",
+        "descripcion": "FILTRO AIRE FRGTLNR/PETERBILT 46842",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF26657.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-27684",
+        "descripcion": "FILTRO AIRE RAM 6.7L 4500 =46930",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF27684.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-27687",
+        "descripcion": "FILTRO AIRE FORD P613522 6.4",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF27687.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-27690",
+        "descripcion": "FILTRO AIRE P/MITSUBISHI 360 ME423319",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF27690.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-27693",
+        "descripcion": "FILTRO AIRE P/ISUZU P543614 46932",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF27693.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-27873",
+        "descripcion": "FILTRO AIRE RETRO EXCAV",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF27873.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-27958",
+        "descripcion": "FILTRO AIRE ACOND CAB INTNRTNL PROSTA",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF27958.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-343",
+        "descripcion": "FILTRO AIRE EXCAVADORA CAT SECUND",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF343.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-344M",
+        "descripcion": "FILTRO SEC EXCAVADORA CAT PRIM AF-343",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF344M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-4195",
+        "descripcion": "FILTRO AIRE KW =P625287 o P614986",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF4195.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-4197",
+        "descripcion": "FILTRO AIRE T800 P625128 P614556 X011622",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF4197.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-421M",
+        "descripcion": "FILTRO AIRE FLEETGUAR P/DINA",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF421M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-424",
+        "descripcion": "FILTRO AIRE FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF424.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-427M",
+        "descripcion": "FILTRO AIRE CONSTRUCC.",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF427M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-4664",
+        "descripcion": "FILTRO AIRE PETERBILT / KW",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF4664.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-4878",
+        "descripcion": "FILTRO AIRE FRGTLNR/KW/KODIAK 46433",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF4878.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-55836",
+        "descripcion": "FILTRO AIRE ACOND CAB PETERBILT",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF55836.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-55839",
+        "descripcion": "FILTRO AIRE ACOND KW T660 =X1987001",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF55839.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-56060",
+        "descripcion": "FILTRO AIRE ACOND MACK ANTHEM",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF56060.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-852",
+        "descripcion": "FILTRO AIRE FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF852.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-852M",
+        "descripcion": "FILTRO AIRE REFORZ.",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF852M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-853",
+        "descripcion": "FILTRO AIRE FRGTLNR P181007",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/list/AF853.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-853M",
+        "descripcion": "FILTRO  AIRE FLEETGUAR REFORZ P182007",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF853M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-872",
+        "descripcion": "FILTRO AIRE DINA FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF872.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-886",
+        "descripcion": "FILTRO AIRE MOTOR CAT FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF886.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-888M",
+        "descripcion": "FILTRO AIRE VOLVO",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF888M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-928M",
+        "descripcion": "FILTRO AIRE FLEETGUAR (P181056)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF928M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-931M",
+        "descripcion": "FILTRO AIRE REF = (P129472)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF931M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-942",
+        "descripcion": "FILTRO AIRE FLEETGUARD",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF942.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-942M",
+        "descripcion": "FILTRO AIRE = (P181019)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF942M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-947",
+        "descripcion": "FILTRO AIRE MOTOR GENER (P136255)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF947.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-954M",
+        "descripcion": "FILTRO AIRE REF",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF954M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-979",
+        "descripcion": "FILTRO AIRE =42253",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF979.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-982",
+        "descripcion": "FILTRO AIRE FAMSA",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF982.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-982M",
+        "descripcion": "FILTRO AIRE FLEETGUAR REF.",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF982M.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-986",
+        "descripcion": "FILTRO AIRE SECUNDARIO (MF7-1599SY)",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF986.jpg",
+        "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AF-987",
+        "descripcion": "FILTRO AIRE SEC P137640 42254",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF987.jpg",
+        "marca": "FLEETGUARD"
     }
 
 
