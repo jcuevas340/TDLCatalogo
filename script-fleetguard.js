@@ -47,8 +47,6 @@ function mostrarResultados(productos) {
         return;
     }
 
-    let mas, menos;
-
     productos.forEach(producto => {
         let div = document.createElement('div');
         div.classList.add('producto');
@@ -56,9 +54,8 @@ function mostrarResultados(productos) {
         let img = document.createElement('img');
         img.src = producto.img;
         img.alt = producto.parte;
-        img.width = 150;
-        img.height = 130;
         img.classList.add("imagen");
+        img.classList.add("fleetguard-img");
         img.style.objectFit = "cover";
 
         let h2 = document.createElement("h2");
