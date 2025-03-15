@@ -1,24 +1,46 @@
-//Variable para guardar los datos del JSON
+// Variable para guardar los datos del JSON
 let datos = [];
 
 fetch('base-datos.json')
     .then(response => response.json())
     .then(data => {
-        datos = data; //Guardamos los datos data en la variable data
-        mostrarResultados(datos); //Llamamos a la función mostrarResultados y le pasamos los datos
-        document.getElementById("btn-buscar").addEventListener("click", function(){
-            let busqueda = document.getElementById("buscar").value.toLowerCase(); //Obtenemos el valor del input buscar
-            let resultados = datos.filter(producto => producto.parte.toLowerCase().includes(busqueda) || producto.descripcion.toLowerCase().includes(busqueda)); //Filtramos los datos para obtener los productos que contengan la busqueda
-            mostrarResultados(resultados); //Mostramos los resultados
-        });
-        addEventListener("keypress", e => {
+        datos = data; // Guardamos los datos
+        mostrarResultados(datos); // Mostramos los datos iniciales
+
+        // Evento de búsqueda
+        document.getElementById("btn-buscar").addEventListener("click", buscarProductos);
+
+        // Evento de tecla "Enter" en el input de búsqueda
+        document.getElementById("buscar").addEventListener("keypress", e => {
             if (e.key === "Enter") {
-                mostrarResultados(datos);
+                buscarProductos();
             }
         });
-        vaciarBuscador();
+
+        // Evento para vaciar el buscador
+        document.getElementById("btn-borrar").addEventListener("click", () => {
+            document.getElementById("buscar").value = '';
+            mostrarResultados(datos);
+        });
     })
-    .catch(error => console.error("Error al cargar el JSON:", error)); //En caso de un error al cargar el JSON, mostramos un mensaje en consola
+    .catch(error => console.error("Error al cargar el JSON:", error));
+
+// Función para buscar productos
+function buscarProductos() {
+    let busqueda = document.getElementById("buscar").value.toLowerCase().trim();
+    
+    if (busqueda === "") {
+        mostrarResultados(datos);
+        return;
+    }
+
+    let resultados = datos.filter(producto => 
+        producto.parte.toLowerCase().includes(busqueda) || 
+        producto.descripcion.toLowerCase().includes(busqueda)
+    );
+
+    mostrarResultados(resultados);
+}
 
 // Función para mostrar los productos en la página
 function mostrarResultados(productos) {
@@ -54,12 +76,5 @@ function mostrarResultados(productos) {
         div.appendChild(h2);
         div.appendChild(p);
         contenedor.appendChild(div);
-    });
-}
-
-function vaciarBuscador(){
-    document.getElementById("btn-borrar").addEventListener("click", e => {
-        document.getElementById("buscar").value = '';
-        mostrarResultados(datos);
     });
 }

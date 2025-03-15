@@ -1,93 +1,21 @@
 [
-    {
-        "parte": "254387S",
-        "descripcion": "BAYONETA LARGA TANQ DIR HID 1 EDS-8981",
-        "categoria": "BAYONETAS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/254387S.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "3300922S",
-        "descripcion": "BASE ADPT. FILTRO LF-670",
-        "categoria": "BASES",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/3300922S.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "AF-1606KM",
-        "descripcion": "FILTRO AIRE GEN",
-        "categoria": "FILTRO AIRE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF1606KM.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "AF-1733K",
-        "descripcion": "FILTRO AIRE AGRICOLA/CONSTRUCCION",
-        "categoria": "FILTRO AIRE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/AF1733K.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "3304173S",
-        "descripcion": "BASE ADAPT. FILTRO LF--777",
-        "categoria": "BASES",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/3304173S.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "FS-1251",
-        "descripcion": "FILTRO SEPARADOR DIESEL",
-        "categoria": "FILTRO SEPARADOR",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1251.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "FS-1000",
-        "descripcion": "FILTRO SEPARADOR DIESEL N14",
-        "categoria": "FILTRO SEPARADOR",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "S-10275",
-        "descripcion": "PALANCA DIREC FRGTLNR 01-4811-77 48522",
-        "categoria": "ACCESORIOS",
-        "img": "",
-        "marca": "NEWSTAR"
-    },
-    {
-        "parte": "S-11168",
-        "descripcion": "REP LIGAS TRANSM 18v K-3341",
-        "categoria": "TRANSMISION",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
-        "marca": "NEWSTAR"
-    },
-    {
-        "parte": "S-11874",
-        "descripcion": "GOBERNAD AIRE SECAD AD-IS 800361 5004049",
-        "categoria": "VALVULAS AIRE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
-        "marca": "NEWSTAR"
-    },
-
-
-    {
+        {
         "parte": "42819",
-        "descripcion": "PALANCA DIREC FRGTLNR 01-4811-77 48522",
+        "descripcion": "PALANCA DIRECCION FREIGHTLINER 01-4811-77 48522",
         "categoria": "LIMPIAPARABRISAS",
         "img": "https://static.dormanproducts.com/images/product/icon/42819-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "42820",
-        "descripcion": "BRAZO R LIMP NAV 3535050C3 PROSTAR",
+        "descripcion": "BRAZO R LIMPIA NAVISTAR 3535050C3 PROSTAR",
         "categoria": "LIMPIAPARABRISAS",
         "img": "https://static.dormanproducts.com/images/product/icon/42820-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "42824",
-        "descripcion": "BRAZO LIMPIAB M2 FL112 22-72009-000 IZQ",
+        "descripcion": "BRAZO L LIMPIA M2 FL112 22-72009-000",
         "categoria": "LIMPIAPARABRISAS",
         "img": "https://static.dormanproducts.com/images/product/icon/42824-007.JPG",
         "marca": "DAYTON DORMAN"
@@ -108,7 +36,7 @@
     },
     {
         "parte": "264-5002",
-        "descripcion": "CARTER MOTOR S60 DELAN 23521170/23522282",
+        "descripcion": "CARTER MOTOR S60 DELANT 23521170/23522282",
         "categoria": "MOTOR",
         "img": "https://static.dormanproducts.com/images/product/icon/264-5002-007.JPG",
         "marca": "DAYTON DORMAN"
