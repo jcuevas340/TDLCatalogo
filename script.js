@@ -70,7 +70,11 @@ function mostrarResultados(productos) {
 
         let p = document.createElement("p");
         p.classList.add('descripcion');
-        p.textContent = producto.descripcion;
+        
+        // Convertir la descripción a minúsculas y capitalizar la primera letra
+        let descripcion = producto.descripcion.toLowerCase();
+        p.textContent = descripcion.charAt(0).toUpperCase() + descripcion.slice(1);
+        // p.textContent = producto.descripcion;
 
         div.appendChild(img);
         div.appendChild(h2);
