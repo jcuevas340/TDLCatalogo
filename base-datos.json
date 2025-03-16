@@ -1,5 +1,5 @@
 [
-        {
+    {
         "parte": "42819",
         "descripcion": "PALANCA DIRECCION FREIGHTLINER 01-4811-77 48522",
         "categoria": "LIMPIAPARABRISAS",
@@ -8,84 +8,84 @@
     },
     {
         "parte": "42820",
-        "descripcion": "BRAZO R LIMPIA NAVISTAR 3535050C3 PROSTAR",
+        "descripcion": "BRAZO R LIMPIAPARABRISAS NAVISTAR 3535050C3 PROSTAR",
         "categoria": "LIMPIAPARABRISAS",
         "img": "https://static.dormanproducts.com/images/product/icon/42820-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "42824",
-        "descripcion": "BRAZO L LIMPIA M2 FL112 22-72009-000",
+        "descripcion": "BRAZO L LIMPIAPARABRISAS M2 FL112 22-72009-000",
         "categoria": "LIMPIAPARABRISAS",
         "img": "https://static.dormanproducts.com/images/product/icon/42824-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "242-5529",
-        "descripcion": "JGO PLACAS UNIDORAS 4 BATERIAS POS/NEG",
+        "descripcion": "JGO PLACAS UNIDORAS 4 BATERIAS +/-",
         "categoria": "SIST. ELECTRICO",
         "img": "https://static.dormanproducts.com/images/product/icon/242-5529CD-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "242-5530",
-        "descripcion": "JGO PLACA UNIDOR ( + - ) 3 BATERIAS",
+        "descripcion": "JGO PLACA UNIDOR (+/-) 3 BATERIAS",
         "categoria": "SIST. ELECTRICO",
         "img": "https://static.dormanproducts.com/images/product/icon/242-5530-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "264-5002",
-        "descripcion": "CARTER MOTOR S60 DELANT 23521170/23522282",
+        "descripcion": "CARTER MOTOR S60 DELANTERO 23521170/23522282",
         "categoria": "MOTOR",
         "img": "https://static.dormanproducts.com/images/product/icon/264-5002-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "264-5115",
-        "descripcion": "EMP PUNT C/ARNESS MAXXFORCE 1850500",
+        "descripcion": "EMPAQUE DE PUNTERIAS C/ARNESS MAXXFORCE 1850500",
         "categoria": "MOTOR",
         "img": "https://static.dormanproducts.com/images/product/icon/264-5115-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "264-5122",
-        "descripcion": "EMP TAPA PUNT i313 C/ARNES 9 CON 431322",
+        "descripcion": "EMPAQUE DE TAPA DE PUNTERIAS i313 C/ARNES 9 CON 431322",
         "categoria": "MOTOR",
         "img": "https://static.dormanproducts.com/images/product/icon/264-5122-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "285-5103",
-        "descripcion": "FLOTADOR TAQ COMB INTRNTNL 3596382C92",
+        "descripcion": "FLOTADOR TANQUE COMB INTERNATIONAL 3596382C92",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/285-5103-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "315-5101",
-        "descripcion": "GANCHO COFRE INTERNAT =451570 1689930C91",
+        "descripcion": "GANCHO COFRE INTERNATIONAL =451570 1689930C91",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/315-5101-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "315-5202",
-        "descripcion": "GANCHO COFRE R COLUM 17-15553-001 740207",
+        "descripcion": "GANCHO COFRE R COLUMBIA 17-15553-001 740207",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/315-5202-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "315-5203",
-        "descripcion": "GANCHO COFRE L COLUM 17-15553-000 740206",
+        "descripcion": "GANCHO COFRE L COLUMBIA 17-15553-000 740206",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/315-5203-007.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "315-5204",
-        "descripcion": "GANCHO COFRE L FRGTL 17-12435-000 740208",
+        "descripcion": "GANCHO COFRE L FREIGHTLINER 17-12435-000 740208",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/315-5204-007.JPG",
         "marca": "DAYTON DORMAN"
@@ -134,14 +134,14 @@
     },
     {
         "parte": "741-5403",
-        "descripcion": "ELEVADOR CRISTAL IZQ KW C/MOTOR R21-1005",
+        "descripcion": "ELEVADOR CRISTAL L KENWORTH C/MOTOR R21-1005",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/741-5403-51792-001.JPG",
         "marca": "DAYTON DORMAN"
     },
     {
         "parte": "741-5404",
-        "descripcion": "ELEVADOR CRISTAL KW ELECTR DER R21-1005R",
+        "descripcion": "ELEVADOR CRISTAL KW ELECTRICO R R21-1005R",
         "categoria": "ACCESORIOS",
         "img": "https://static.dormanproducts.com/images/product/icon/741-5404-51792-001.JPG",
         "marca": "DAYTON DORMAN"
