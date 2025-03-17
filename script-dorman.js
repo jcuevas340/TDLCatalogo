@@ -72,9 +72,19 @@ function mostrarResultados(productos) {
         p.textContent = descripcion.charAt(0).toUpperCase() + descripcion.slice(1);
         // p.textContent = producto.descripcion;
 
+        let mas = document.createElement("button");
+        mas.classList.add("sumar");
+        mas.textContent = "+";
+
+        let menos = document.createElement("button");
+        menos.classList.add("restar");
+        menos.textContent = "-";
+
         div.appendChild(img);
         div.appendChild(h2);
         div.appendChild(p);
+        div.appendChild(mas);
+        div.appendChild(menos);
         contenedor.appendChild(div);
     });
 }
