@@ -94,6 +94,36 @@ li a:hover {
     margin: 0 2rem;
 }
 
+/* Contactos - index */
+.contactos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.area-contactos{
+    display: grid;
+
+}
+
+.contacto{
+    background-color: #037c3f;
+    margin: 1rem;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.contacto a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: #ffe600;
+}
+
 .buscador{
     background-color: rgb(2, 0, 135);
     justify-items: center;
@@ -256,37 +286,44 @@ h1{
 }
 
 .carousel {
-    overflow: hidden;
-    width: 80vw; /* Ajusta el tamaño del carrusel */
-    height: 200px;
-    margin: auto;
+    overflow: visible;
+    width: 80vw; /* Ajusta según necesidad */
+    height: 300px;
+    margin: 2rem;
     position: relative;
     display: flex;
     align-items: center;
+    z-index: 10;
+}
+
+.carrusel{
+    margin-right: 1rem;
 }
 
 .wrap {
     display: flex;
-    width: calc(250px * 8); /* El doble de imágenes */
-    animation: slide 10s linear infinite;
+    width: max-content; /* Permite que el contenido crezca sin límites */
+    animation: slide 26s linear infinite;
 }
 
-/* Estilos de las imágenes */
+/* Asegura que las imágenes sean del mismo tamaño */
 .wrap img {
     height: 200px;
     object-fit: cover;
     border-radius: 15px;
+    flex-shrink: 0; /* Evita que las imágenes se reduzcan */
 }
 
-/* Animación sin cortes */
+/* Animación continua sin cortes */
 @keyframes slide {
     from {
-        transform: translateX(0);
+        transform: translateX(60%);
     }
     to {
-        transform: translateX(-50%); /* Solo se mueve la mitad para que el ciclo sea perfecto */
+        transform: translateX(-100%);
     }
 }
+
 
 .sumar, .restar {
     z-index: 11;
@@ -328,5 +365,12 @@ h1{
 
 .catalogo:hover .img-catalogo{
     width: 12rem;
+}
+
+.catalogo:hover h3{
     color: #037c3f;
+}
+
+.logo-footer{
+    width: 15rem;
 }
