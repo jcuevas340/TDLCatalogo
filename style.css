@@ -317,7 +317,7 @@ h1{
 /* Animación continua sin cortes */
 @keyframes slide {
     from {
-        transform: translateX(60%);
+        transform: translateX(0%);
     }
     to {
         transform: translateX(-100%);
