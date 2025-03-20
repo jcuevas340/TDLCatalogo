@@ -5,28 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catalogo TDL</title>
     <link rel="stylesheet" href="style.css">
-    <script type="module" src="/script-dorman.js"></script>
+    <script type="module" src="script-dorman.js"></script>
     <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
     <link rel="shortcut icon" href="/resources/autobus.ico"/>
 </head>
 <body>
     <header>
         <ul class="menu-horizontal">
-            <li><a href="/index.html">HOME</a></li>
-            <li><a href="/fleetguard.html">Fleetguard</a></li>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="fleetguard.html">Fleetguard</a></li>
             <li><a href="#NEWSTAR">Newstar</a></li>
-            <li><a href="/dorman.html" class="active">Dorman</a></li>
+            <li><a href="dorman.html" class="active">Dorman</a></li>
             <li><a href="#PAI">Pai</a></li>
             <li><a href="#USK">Usk</a></li>
-            <li><a href="/sampa.html">Sampa</a></li>
+            <li><a href="sampa.html">Sampa</a></li>
+            <li><a href="#contactos">Contacto</a></li>
         </ul>
     </header>
     <nav class="buscador">
         <h1>Buscar Piezas</h1>
         <div class="elementos-buscador">
             <input type="text" id="buscar" placeholder="Escribe el nombre de la pieza...">
-            <button id="btn-borrar"> <img src="/cross-small.png" alt="clear" id="img-borrar"></button>
-            <button id="btn-buscar"> <img src="/search.png" alt="search" id="img-buscar"></button>
+            <button id="btn-borrar"> <img src="cross-small.png" alt="clear" id="img-borrar"></button>
+            <button id="btn-buscar"> <img src="search.png" alt="search" id="img-buscar"></button>
             <select name="categoria" id="categoria">
                 <!-- <option value="OPCION">OPCION</option> -->
                  <option value="">Selecciona una opcion</option>
@@ -44,14 +45,36 @@
         <div id="container"></div>
     </div>
     <footer class="footer">
+        <div class="pie-de-pagina">
+            <div class="pie-logo">
+                <a href="index.html"><img src="resources/logo-tdl.jpeg" alt="Logo TDL" class="logo-footer"></a>
+            </div>
+
+            <div class="pie-menu">
+                <ul class="menu-horizontal">
+                    <li><a href="index.html" class="active">HOME</a></li>
+                    <li><a href="fleetguard.html">Fleetguard</a></li>
+                    <li><a href="#NEWSTAR">Newstar</a></li>
+                    <li><a href="dorman.html">Dorman</a></li>
+                    <li><a href="#PAI">Pai</a></li>
+                    <li><a href="#USK">Usk</a></li>
+                    <li><a href="sampa.html">Sampa</a></li>
+                    <li><a href="#contactos">Contacto</a></li>
+                </ul>
+            </div>
+
+            <div class="pie-ubicacion">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d466.56844892512925!2d-103.45653090492442!3d20.687976879817146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428a93593d61dd1%3A0xf86e4339246c3dd6!2sTractomotriz%20Diesel%20Leal!5e0!3m2!1ses!2smx!4v1742441999635!5m2!1ses!2smx" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+            <div class="pie-soporte">
+                <img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="whatsapp-icon">
+                <a href="https://wa.me/3350183347">Juan C. Cuevas</a>
+                <a href="mailto:jcuevas340@gmail.com">Envia un correo</a>
+            </div>
+
+        </div>
         <p>Copyright 2025 TDL Suc. Periferico</p>
-        <a href="https://wa.me/3350183347">Compras</a>
-        <a href="https://wa.me/3316098833">Ventas - Eduardo Lamas</a>
-        <a href="https://wa.me/3343186576">Ventas - Laura Rojas</a>
-        <a href="https://wa.me/3316150768">Ventas - Vidal Murillo</a>
-        <a href="/CATÁLOGO NEWSTAR SUC. PERIFERICO 2025.pdf" download="catalogo-prueba-newstar.pdf">
-            <button>Descargar PDF</button>
-        </a>
     </footer>
     <!-- <script>
         let datos = [];
