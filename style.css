@@ -104,8 +104,8 @@ li a:hover {
 }
 
 .area-contactos{
-    display: grid;
-
+    display: flex;
+    flex-direction: row;
 }
 
 .contacto{
@@ -324,7 +324,6 @@ h1{
     }
 }
 
-
 .sumar, .restar {
     z-index: 11;
     position: absolute; /* Se colocan dentro del .producto */
@@ -387,4 +386,8 @@ h1{
     z-index: 25;
     position: relative;
     x: 100%;
+}
+
+.img-contacto{
+    width: 10rem;
 }
