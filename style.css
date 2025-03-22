@@ -361,16 +361,30 @@ h1{
 
 .img-catalogo{
     width: 10rem;
+    transition: transform 0.3s ease-in-out;
 }
 
 .catalogo:hover .img-catalogo{
-    width: 12rem;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
 }
 
 .catalogo:hover h3{
     color: #037c3f;
 }
 
+.h3-descargar{
+    text-decoration: none;
+    color: #111;
+}
+
 .logo-footer{
     width: 15rem;
+}
+
+.logo{
+    width: 45rem;
+    z-index: 25;
+    position: relative;
+    x: 100%;
 }
