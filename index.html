@@ -23,8 +23,7 @@
     </header>
 
     <!-- Carousel: Contiene un carrusel infinito con fotos de los logos de las marcas principales en un scroll infinito -->
-    <div class="carousel">
-        <img src="resources/logo-tdl.jpeg" alt="Logo TDL" class="logo">
+    <div class="carousel">  
         <div class="wrap">
             <img class="carrusel" src="resources/dorman-logo.png" alt="Dayton-Dorman">
             <img class="carrusel" src="resources/fleetguard-logo.png" alt="Fleetguard">
@@ -70,23 +69,31 @@
         <div class="area-contactos">
             <div class="contacto">
                 <img src="resources/contacto-ivan.jpeg" alt="Contacto-ivan" class="img-contacto">
-                <img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="whatsapp-icon">
-                <a href="https://wa.me/3338703393">Ivan Leal</a>
+                <div class="enlaces-contactos">
+                    <span class="linea-contacto"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="contact-icon"><a href="https://wa.me/3338703393">Ivan Leal</a></span>
+                    <span class="linea-contacto"><img src="resources/email.png" alt="Email Icon" class="contact-icon"><a href="mailto:tractomotriz@hotmail.com">Envia un correo</a></span>
+                </div>
             </div>
             <div class="contacto">
                 <img src="resources/contacto-lamas.jpeg" alt="Contacto-ivan" class="img-contacto">
-                <img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="whatsapp-icon">
-                <a href="https://wa.me/3316098833">Eduardo Lamas</a>
+                <div class="enlaces-contactos">
+                    <span class="linea-contacto"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="contact-icon"><a href="https://wa.me/3316098833">Eduardo Lamas</a></span>
+                    <span class="linea-contacto"><img src="resources/email.png" alt="Email Icon" class="contact-icon"><a href="mailto:tractomotriz@hotmail.com">Envia un correo</a></span>
+                </div>
             </div>
             <div class="contacto">
                 <img src="resources/contacto-vidal.jpeg" alt="Contacto-ivan" class="img-contacto">
-                <img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="whatsapp-icon">
-                <a href="https://wa.me/3316150768">Vidal Murillo</a>
+                <div class="enlaces-contactos">
+                    <span class="linea-contacto"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="contact-icon"><a href="https://wa.me/3316150768">Vidal Murillo</a></span>
+                    <span class="linea-contacto"><img src="resources/email.png" alt="Email Icon" class="contact-icon"><a href="mailto:tractomotriz@hotmail.com">Envia un correo</a></span>
+                </div>
             </div>
             <div class="contacto">
                 <img src="resources/contacto-laura.jpeg" alt="Contacto-ivan" class="img-contacto">
-                <img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="whatsapp-icon">
-                <a href="https://wa.me/3343186576">Laura Rojas</a>
+                <div class="enlaces-contactos">
+                    <span class="linea-contacto"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="contact-icon"><a href="https://wa.me/3343186576">Laura Rojas</a></span>
+                    <span class="linea-contacto"><img src="resources/email.png" alt="Email Icon" class="contact-icon"><a href="mailto:tractomotriz@hotmail.com">Envia un correo</a></span>
+                </div>
             </div>
         </div>
     </section>
@@ -98,17 +105,21 @@
             </div>
 
             <div class="pie-ubicacion">
+                <h4>Donde encontrarnos:</h4>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d466.56844892512925!2d-103.45653090492442!3d20.687976879817146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428a93593d61dd1%3A0xf86e4339246c3dd6!2sTractomotriz%20Diesel%20Leal!5e0!3m2!1ses!2smx!4v1742441999635!5m2!1ses!2smx" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
             <div class="pie-soporte">
-                <img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="whatsapp-icon">
-                <a href="https://wa.me/3350183347">Juan C. Cuevas</a>
-                <a href="mailto:jcuevas340@gmail.com">Envia un correo</a>
+                <h4>Soporte:</h4>
+                <a href="https://wa.me/3350183347" class="support-a"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="support-icon"></a>
+                <a href="mailto:jcuevas340@gmail.com" class="support-a"><img src="resources/email.png" alt="Email Icon" class="support-icon"></a>
             </div>
 
         </div>
-        <p>Copyright 2025 TDL Suc. Periferico</p>
+
+        <hr class="linea-footer">
+
+        <p>Tractomotriz Diesel Leal Sucursal Periferico</p>
     </footer>
     <script type="module" src="script.js"></script>
     <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
