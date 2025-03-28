@@ -44,7 +44,6 @@ header{
     display: flex;
     align-items: center;
     font-weight: 600;
-    height: 3rem;
 }
 
 ul {
@@ -63,7 +62,7 @@ ul {
 }
 
 .img-carrito{
-    height: 3rem;
+    height: 48px;
 }
 
 li {
@@ -370,11 +369,28 @@ h1{
     top: 40px; /* Espaciado entre los botones */
 }
 
+.restar:disabled {
+    background-color: rgba(0, 0, 0, 0.2); /* Un color más apagado */
+    cursor: not-allowed;
+}
+
 /* Mostrar botones al hacer hover sobre el producto */
 .producto:hover .sumar,
 .producto:hover .restar {
     opacity: 1;
     transform: translateY(0);
+}
+
+.cantidad {
+    position: absolute;
+    top: 5px;  /* Ajusta la posición en la parte superior */
+    left: 5px; /* Mueve el span a la esquina izquierda */
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    z-index: 12; /* Asegura que esté encima */
 }
 
 .footer {
