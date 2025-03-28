@@ -5,17 +5,27 @@ fetch('base-datos.json')
     .then(response => response.json())
     .then(data => {
         datos = data; // Guardamos los datos en la variable
-        filtrarProductos(datos); // Mostramos todos los productos al inicio
+        filtrarProductos(); // Mostramos todos los productos al inicio
 
         // Agregamos eventos
         document.getElementById("btn-buscar").addEventListener("click", filtrarProductos);
         document.getElementById("categoria").addEventListener("change", filtrarProductos);
         addEventListener("keypress", e => {
             if (e.key === "Enter") {
-                filtrarProductos(datos);
+                filtrarProductos();
             }
         });
         vaciarBuscador();
+
+        document.addEventListener("click", (e) => {
+            if (e.target.classList.contains("sumar")) {
+                agregarProducto(e.target);
+            }
+            if (e.target.classList.contains("restar")) {
+                quitarProducto(e.target);
+            }
+        });
+        
     })
     .catch(error => console.error("Error al cargar el JSON:", error));
 
@@ -31,7 +41,7 @@ function filtrarProductos() {
 
         let coincideCategoria = categoriaSeleccionada === "OPCION" || producto.categoria.includes(categoriaSeleccionada);
 
-        return coincideBusqueda && coincideCategoria && producto.marca.toLowerCase().includes("dayton dorman");
+        return coincideBusqueda && coincideCategoria && producto.marca.toLowerCase().includes("dorman");
     });
 
     mostrarResultados(resultados);
@@ -46,8 +56,6 @@ function mostrarResultados(productos) {
         contenedor.innerHTML = "<p>No se encontraron productos</p>";
         return;
     }
-
-    let mas, menos;
 
     productos.forEach(producto => {
         let div = document.createElement('div');
@@ -67,24 +75,29 @@ function mostrarResultados(productos) {
 
         let p = document.createElement("p");
         p.classList.add('descripcion');
-        // Convertir la descripción a minúsculas y capitalizar la primera letra
         let descripcion = producto.descripcion.toLowerCase();
         p.textContent = descripcion.charAt(0).toUpperCase() + descripcion.slice(1);
-        // p.textContent = producto.descripcion;
+
+        let menos = document.createElement("button");
+        menos.classList.add("restar");
+        menos.textContent = "-";
+        menos.disabled = true; // Inicialmente deshabilitado
+
+        let cantidadSpan = document.createElement("span");
+        cantidadSpan.classList.add("cantidad");
+        cantidadSpan.textContent = "0";
+        cantidadSpan.style.display = "none";
 
         let mas = document.createElement("button");
         mas.classList.add("sumar");
         mas.textContent = "+";
 
-        let menos = document.createElement("button");
-        menos.classList.add("restar");
-        menos.textContent = "-";
-
         div.appendChild(img);
         div.appendChild(h2);
         div.appendChild(p);
-        div.appendChild(mas);
         div.appendChild(menos);
+        div.appendChild(cantidadSpan);
+        div.appendChild(mas);
         contenedor.appendChild(div);
     });
 }
@@ -94,4 +107,44 @@ function vaciarBuscador() {
         document.getElementById("buscar").value = '';
         filtrarProductos();
     });
+}
+
+function agregarProducto(boton) {
+    let productoDiv = boton.closest(".producto");
+    let cantidadSpan = productoDiv.querySelector(".cantidad");
+    let menosBtn = productoDiv.querySelector(".restar");
+    let cantidad = parseInt(cantidadSpan.textContent);
+
+    cantidad += 1;
+    cantidadSpan.textContent = cantidad;
+
+    // Habilitar el botón "restar" si la cantidad es mayor a 0
+    if (cantidad > 0) {
+        menosBtn.disabled = false;
+        cantidadSpan.style.display = "inline";
+    }
+
+    let claveProducto = productoDiv.querySelector(".parte").textContent;
+    console.log(`${claveProducto}: ${cantidad}`);
+}
+
+function quitarProducto(boton) {
+    let productoDiv = boton.closest(".producto");
+    let cantidadSpan = productoDiv.querySelector(".cantidad");
+    let menosBtn = productoDiv.querySelector(".restar");
+    let cantidad = parseInt(cantidadSpan.textContent);
+
+    if (cantidad > 0) {
+        cantidad -= 1;
+        cantidadSpan.textContent = cantidad;
+    }
+
+    // Deshabilitar el botón "restar" si la cantidad llega a 0
+    if (cantidad === 0) {
+        menosBtn.disabled = true;
+        cantidadSpan.style.display = "none";
+    }
+
+    let claveProducto = productoDiv.querySelector(".parte").textContent;
+    console.log(`${claveProducto}: ${cantidad}`);
 }
