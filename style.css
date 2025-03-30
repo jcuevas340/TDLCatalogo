@@ -130,7 +130,7 @@ li a:hover {
 
 .contacto{
     background-color: #037c3f;
-    margin: 1rem;
+    margin: 0 1rem 0.83rem;
     padding: 1rem;
     display: flex;
     justify-content: center;
@@ -393,17 +393,6 @@ h1{
     z-index: 12; /* Asegura que esté encima */
 }
 
-.footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 0.2rem;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 .img-catalogo{
     width: 10rem;
     transition: transform 0.3s ease-in-out;
@@ -422,10 +411,6 @@ h1{
 .h3-descargar{
     text-decoration: none;
     color: #111;
-}
-
-.logo-footer{
-    width: 15rem;
 }
 
 .logo{
@@ -452,54 +437,7 @@ h1{
     margin: 0.2rem;
 }
 
-.pie-de-pagina{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 80vw;
-}
 
-.pie-logo{
-    margin: 1rem 3rem 0 1rem;
-    width: 30%;
-}
-
-.pie-ubicacion{
-    margin: 0 3rem 1rem 3rem;
-    text-align: left;
-    width: 30%;
-}
-
-.linea-footer{
-    border: 1px solid rgb(250, 253, 255);
-}
-
-.pie-soporte{
-    width: 30%;
-    margin: 0 3rem 1rem 3rem;
-    display: flex;
-    flex-direction: column;
-}
-
-.support-icon{
-    width: 3rem;
-    opacity: 0.5;
-    transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-.support-icon:hover{
-    opacity: 1;
-    transition: opacity 0.3s ease, transform 0.3s ease;
-    cursor: pointer;
-}
-
-.support-icon{
-    width: 3rem;
-}
-
-.support-a{
-    cursor: default;
-}
 
 .ubicacion{
     justify-items: center;
@@ -517,6 +455,9 @@ h1{
     display: flex;
     flex-direction: column;
     color: white;
+    margin: 1rem;
+    padding: 1rem;
+    justify-content: start;
 }
 
 .telefono{
@@ -541,4 +482,107 @@ h1{
     text-decoration: none;
     color: white;
     font-weight: 600;
+    font-size: larger;
 }
+
+.maps{
+    margin: 2rem 3rem 2rem 0;
+}
+
+.fecha{
+    margin: 0 0 0.5rem 0;
+}
+
+.sucursal{
+    margin: 0 0 1.5rem 0;
+    justify-items: center;
+}
+
+/*  Inicio de estilos Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0.2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.pie-de-pagina{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 90vw;
+}
+
+.pie-logo{
+    margin: 1rem 3rem 0 1rem;
+    width: 30%;
+}
+
+.logo-footer{
+    width: 15rem;
+}
+
+.pie-ubicacion{
+    /* margin: 0 3rem 1rem 3rem; */
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.mapas{
+    display: flex;
+    flex-direction: row;
+}
+
+.mapa{
+    display: flex;
+    flex-direction: column;
+    margin: 0 1rem;
+}
+
+h5{
+    margin: 0 0 0.83rem 0;
+}
+
+.pie-soporte{
+    width: 30%;
+    margin: 0 3rem 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.icon{
+    cursor: default;
+}
+
+.pie-redes{
+    display: flex;
+    flex-direction: column;
+}
+
+.icon{
+    width: 3rem;
+    opacity: 0.5;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    opacity: 1;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+.linea-footer{
+    border: 1px solid rgb(250, 253, 255);
+}
+
+/* Fin de inicio de estilos */
