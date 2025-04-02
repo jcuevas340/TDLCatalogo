@@ -62,7 +62,8 @@ ul {
 }
 
 .img-carrito{
-    height: 48px;
+    height: 0.8rem;
+    object-fit: fill;
 }
 
 li {
