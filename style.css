@@ -479,6 +479,14 @@ h1{
     color: white;
 }
 
+.separador-soporte, .separador-redes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0 1rem 0;
+}
+
 .telefonos{
     text-decoration: none;
     color: white;
@@ -596,3 +604,91 @@ h5{
 }
 
 /* Fin de inicio de estilos */
+
+/* Diseno responsive para telefonos y tabletas */
+@media screen and (max-width: 768px) {
+    body{
+        align-items: center;
+    }
+
+    .catalogos{
+        width: 80vw;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .area-descargas{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .area-contactos{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .informacion{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .maps{
+        margin: 2rem;
+    }
+
+    .footer{
+        align-items: center;
+    }
+
+    .pie-de-pagina{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .separador-soporte{
+        flex-direction: row;
+    }
+
+    .separador-redes{
+        flex-direction: row;
+    }
+
+    .producto{
+        width: 80vw;
+    }
+
+    .icon{
+        margin: 0 1rem 1rem 1rem;
+    }
+
+    .contacto{
+        width: 80vw;
+    }
+
+    .pie-logo{
+        width: 100%;
+    }
+
+    .pie-ubicacion{
+        width: 100%;
+    }
+
+    .pie-soporte{
+        width: 100%;
+    }
+
+    .pie-redes{
+        width: 100%;
+    }
+
+    .mapas{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
