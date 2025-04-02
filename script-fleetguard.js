@@ -1,5 +1,9 @@
 // Variable para guardar los datos del JSON
 let datos = [];
+let carritoBtn = document.createElement("button");
+    carritoBtn.classList.add("carrito");
+    carritoBtn.textContent = "Agregar al carrito";
+    carritoBtn.style.display = "none";
 
 fetch('base-datos.json')
     .then(response => response.json())
@@ -23,6 +27,9 @@ fetch('base-datos.json')
             }
             if (e.target.classList.contains("restar")) {
                 quitarProducto(e.target);
+            }
+            if(e.target.classList.contains("carrito")){
+                agregarCarrito();
             }
         });
         
@@ -98,6 +105,8 @@ function mostrarResultados(productos) {
         div.appendChild(mas);
         contenedor.appendChild(div);
     });
+
+    contenedor.appendChild(carritoBtn);
 }
 
 function vaciarBuscador() {
@@ -120,6 +129,7 @@ function agregarProducto(boton) {
     if (cantidad > 0) {
         menosBtn.disabled = false;
         cantidadSpan.style.display = "inline";
+        carritoBtn.style.display = "inline"; // Mostrar el botón de agregar al carrito
     }
 
     let claveProducto = productoDiv.querySelector(".parte").textContent;
@@ -141,8 +151,24 @@ function quitarProducto(boton) {
     if (cantidad === 0) {
         menosBtn.disabled = true;
         cantidadSpan.style.display = "none";
+        carritoBtn.style.display = "none";
     }
 
     let claveProducto = productoDiv.querySelector(".parte").textContent;
     console.log(`${claveProducto}: ${cantidad}`);
+}
+
+function agregarCarrito() {
+    let carrito = [];
+
+    document.querySelectorAll(".producto").forEach(productoDiv => {
+        let cantidad = parseInt(productoDiv.querySelector(".cantidad").textContent);
+        if (cantidad > 0) {
+            let claveProducto = productoDiv.querySelector(".parte").textContent;
+            carrito.push({ producto: claveProducto, cantidad: cantidad });
+        }
+    });
+
+    console.log("Carrito:", carrito);
+    localStorage.setItem("carrito", JSON.stringify(carrito)); // Guardar en localStorage
 }
