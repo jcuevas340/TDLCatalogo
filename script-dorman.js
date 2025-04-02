@@ -1,5 +1,9 @@
 // Variable para guardar los datos del JSON
 let datos = [];
+let carritoBtn = document.createElement("button");
+    carritoBtn.classList.add("carrito");
+    carritoBtn.textContent = "Agregar al carrito";
+    carritoBtn.style.display = "none";
 
 fetch('base-datos.json')
     .then(response => response.json())
@@ -104,9 +108,6 @@ function mostrarResultados(productos) {
         contenedor.appendChild(div);
     });
 
-    let carritoBtn = document.createElement("button");
-    carritoBtn.classList.add("carrito");
-    carritoBtn.textContent = "Agregar al carrito";
     contenedor.appendChild(carritoBtn);
 }
 
@@ -130,6 +131,7 @@ function agregarProducto(boton) {
     if (cantidad > 0) {
         menosBtn.disabled = false;
         cantidadSpan.style.display = "inline";
+        carritoBtn.style.display = "inline"; // Mostrar el botón de agregar al carrito
     }
 
     let claveProducto = productoDiv.querySelector(".parte").textContent;
@@ -151,6 +153,7 @@ function quitarProducto(boton) {
     if (cantidad === 0) {
         menosBtn.disabled = true;
         cantidadSpan.style.display = "none";
+        carritoBtn.style.display = "none";
     }
 
     let claveProducto = productoDiv.querySelector(".parte").textContent;
