@@ -4,6 +4,7 @@ let carritoBtn = document.createElement("button");
     carritoBtn.classList.add("carrito");
     carritoBtn.textContent = "Agregar al carrito";
     carritoBtn.style.display = "none";
+let carrito = [];
 
 fetch('base-datos.json')
     .then(response => response.json())
@@ -161,16 +162,29 @@ function quitarProducto(boton) {
 }
 
 function agregarCarrito() {
-    let carrito = [];
+    carrito = []; // Reiniciar el carrito
 
     document.querySelectorAll(".producto").forEach(productoDiv => {
+        let cantidadSpan = productoDiv.querySelector(".cantidad");
         let cantidad = parseInt(productoDiv.querySelector(".cantidad").textContent);
+
         if (cantidad > 0) {
             let claveProducto = productoDiv.querySelector(".parte").textContent;
             carrito.push({ producto: claveProducto, cantidad: cantidad });
         }
+
+        // Reiniciar la cantidad a 0 después de agregar al carrito
+        cantidadSpan.textContent = 0;
+        cantidadSpan.style.display = "none";
+
+        // Deshabilitar el botón "restar" si la cantidad llega a 0
+        let menosBtn = productoDiv.querySelector(".restar");
+        menosBtn.disabled = true;
     });
 
     console.log("Carrito:", carrito);
     localStorage.setItem("carrito", JSON.stringify(carrito)); // Guardar en localStorage
+
+    // Ocultar el botón de "Agregar al carrito"
+    carritoBtn.style.display = "none";
 }

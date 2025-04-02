@@ -4,6 +4,7 @@ let carritoBtn = document.createElement("button");
     carritoBtn.classList.add("carrito");
     carritoBtn.textContent = "Agregar al carrito";
     carritoBtn.style.display = "none";
+let carrito = [];
 
 fetch('base-datos.json')
     .then(response => response.json())
@@ -135,7 +136,7 @@ function agregarProducto(boton) {
     }
 
     let claveProducto = productoDiv.querySelector(".parte").textContent;
-    console.log(`${claveProducto}: ${cantidad}`);
+    // console.log(`${claveProducto}: ${cantidad}`);
 }
 
 function quitarProducto(boton) {
@@ -157,20 +158,61 @@ function quitarProducto(boton) {
     }
 
     let claveProducto = productoDiv.querySelector(".parte").textContent;
-    console.log(`${claveProducto}: ${cantidad}`);
+    // console.log(`${claveProducto}: ${cantidad}`);
 }
 
 function agregarCarrito() {
-    let carrito = [];
+    carrito = []; // Reiniciar el carrito
 
     document.querySelectorAll(".producto").forEach(productoDiv => {
+        let cantidadSpan = productoDiv.querySelector(".cantidad");
         let cantidad = parseInt(productoDiv.querySelector(".cantidad").textContent);
+
         if (cantidad > 0) {
             let claveProducto = productoDiv.querySelector(".parte").textContent;
             carrito.push({ producto: claveProducto, cantidad: cantidad });
         }
+
+        // Reiniciar la cantidad a 0 después de agregar al carrito
+        cantidadSpan.textContent = 0;
+        cantidadSpan.style.display = "none";
+
+        // Deshabilitar el botón "restar" si la cantidad llega a 0
+        let menosBtn = productoDiv.querySelector(".restar");
+        menosBtn.disabled = true;
     });
 
     console.log("Carrito:", carrito);
     localStorage.setItem("carrito", JSON.stringify(carrito)); // Guardar en localStorage
+
+    // Ocultar el botón de "Agregar al carrito"
+    carritoBtn.style.display = "none";
+}
+
+function mostrarCarrito() {
+    let areaProductos = document.getElementsByClassName("area-productos");
+    areaProductos.innerHTML = ''; // Limpiar el área de productos
+
+    if (carrito.length === 0) {
+        areaProductos.innerHTML = "<p>No hay productos en el carrito</p>";
+        return;
+    }
+
+    carrito.forEach(item => {
+        let div = document.createElement('div');
+        div.classList.add('producto-carrito');
+
+        let h2 = document.createElement("h2");
+        h2.textContent = `${item.producto}: ${item.cantidad}`;
+
+        div.appendChild(h2);
+        areaProductos.appendChild(div);
+    });
+
+    let carrito = JSON.parse(localStorage.getItem("carrito"));
+    if (carrito) {
+        console.log("Carrito desde localStorage:", carrito);
+    } else {
+        console.log("El carrito está vacío.");
+    }
 }
