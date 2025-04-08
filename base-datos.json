@@ -1,24 +1,33 @@
 [
     {
         "parte": "42819",
-        "descripcion": "PALANCA DE DIRECCION FREIGHTLINER 01-4811-77 48522",
+        "descripcion": "Brazo Limpiaparabrisas Izquierdo",
         "categoria": "LIMPIAPARABRISAS",
         "img": "image-db/42819.webp",
-        "marca": "DAYTON DORMAN"
+        "marca": "DAYTON DORMAN",
+        "conversiones": [
+            {"parte": "3535049C2", "marca": "NAVISTAR"}
+        ]
     },
     {
         "parte": "42820",
-        "descripcion": "BRAZO DERECHO LIMPIAPARABRISAS NAVISTAR 3535050C3 PROSTAR",
+        "descripcion": "Brazo Limpiaparabrisas Derecho",
         "categoria": "LIMPIAPARABRISAS",
         "img": "image-db/42820.webp",
-        "marca": "DAYTON DORMAN"
+        "marca": "DAYTON DORMAN",
+        "conversiones": [
+            {"parte": "3535050C3", "marca": "NAVISTAR"}
+        ]
     },
     {
         "parte": "42824",
-        "descripcion": "BRAZO IZQUIERDO LIMPIAPARABRISAS M2 FL112 22-72009-000",
+        "descripcion": "Brazo Limpiaparabrisas Izquierdo",
         "categoria": "LIMPIAPARABRISAS",
         "img": "image-db/42824.webp",
-        "marca": "DAYTON DORMAN"
+        "marca": "DAYTON DORMAN",
+        "conversiones": [
+            {"parte": "22-72009-000", "marca": "Freightliner"}
+        ]
     },
     {
         "parte": "242-5529",
