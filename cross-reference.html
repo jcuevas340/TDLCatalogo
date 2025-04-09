@@ -5,18 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catalogo TDL</title>
     <link rel="stylesheet" href="style.css">
-    <script type="module" src="script-fleetguard.js"></script>
-    <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
     <link rel="shortcut icon" href="resources/autobus.ico"/>
 </head>
 <body>
+    <!-- Header: contiene el menu horizontal donde estan las diferentes pestanas para acceder a las paginas de cada marca con sus respectivos productos que manejamos -->
     <header>
         <ul class="menu-horizontal">
             <li><a href="index.html">HOME</a></li>
-            <li><a href="fleetguard.html" class="active">Fleetguard</a></li>
+            <li><a href="fleetguard.html">Fleetguard</a></li>
             <li><a href="dorman.html">Dorman</a></li>
             <li><a href="sampa.html">Sampa</a></li>
-            <li><a href="cross-reference.html">Cross-reference</a></li>
+            <li><a href="cross-reference.html" class="active">Cross-reference</a></li>
             <li><a href="aplicaciones.html">Aplicaciones</a></li>
         </ul>
         <ul class="sesion-carrito">
@@ -24,25 +23,20 @@
             <li><a href="carrito.html"><img src="resources/carrito-de-compras.png" alt="Carrito de compras" class="img-carrito"></a></li>
         </ul>
     </header>
+
     <nav class="buscador">
         <h1>Buscar Piezas</h1>
         <div class="elementos-buscador">
             <input type="text" id="buscar" placeholder="Escribe el nombre de la pieza...">
             <button id="btn-borrar"> <img src="cross-small.png" alt="clear" id="img-borrar"></button>
             <button id="btn-buscar"> <img src="search.png" alt="search" id="img-buscar"></button>
-            <select name="categoria" id="categoria">
-                <!-- <option value="OPCION">OPCION</option> -->
-                 <option value="">Selecciona una opcion</option>
-                <option value="ADHITIVOS">Adhitivos</option>
-                <option value="FILTRO AIRE">Filtro de aire</option>
-                <option value="FILTRO AGUA">Filtro de agua</option>
-                <option value="FILTRO SEPARADOR">Filtro separador</option>
-            </select>
         </div>
     </nav>
+
     <div class="contenedor">
         <div id="container"></div>
     </div>
+
     <footer class="footer">
         <div class="pie-de-pagina">
             <div class="pie-logo">
@@ -65,14 +59,18 @@
 
             <div class="pie-soporte">
                 <h4>Soporte</h4>    
-                <a href="https://wa.me/3350183347" class="support-a"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="icon"></a>
-                <a href="mailto:jcuevas340@gmail.com" class="support-a"><img src="resources/email.png" alt="Email Icon" class="icon"></a>
+                <div class="separador-soporte">
+                    <a href="https://wa.me/3350183347" class="support-a"><img src="resources/whatsapp-icon.png" alt="WhatsApp Icon" class="icon"></a>
+                    <a href="mailto:jcuevas340@gmail.com" class="support-a"><img src="resources/email.png" alt="Email Icon" class="icon"></a>
+                </div>
             </div>
 
             <div class="pie-redes">
                 <h4>Síguenos</h4>
-                <a href="https://www.facebook.com/tractomotrizcdgranja?locale=es_LA"><img src="resources/facebook.png" alt="Facebook" class="icon"></a>
-                <a href="https://www.tractomotrizleal.com/#!/"><img src="resources/sitio-web.png" alt="Sitio web" class="icon"></a>
+                <div class="separador-redes">
+                    <a href="https://www.facebook.com/tractomotrizcdgranja?locale=es_LA"><img src="resources/facebook.png" alt="Facebook" class="icon"></a>
+                    <a href="https://www.tractomotrizleal.com/#!/"><img src="resources/sitio-web.png" alt="Sitio web" class="icon"></a>
+                </div>
             </div>
 
         </div>
@@ -81,22 +79,8 @@
 
         <p>Tractomotriz Diesel Leal Sucursal Periferico</p>
     </footer>
-    <!-- <script>
-        let datos = [];
-        fetch('base-datos.json')
-        .then(response => response.json())
-        .then(data => {
-            datos = data;
-
-        })
-        const {jsPDF} = jspdf;
-        const doc  = new jsPDF();
-        const image = new Image();
-
-        image.src = "978-5201-007.jpeg";
-
-        doc.addImage(image, "JPG", 50, 50);
-        doc.save("prueba.pdf");
-    </script> -->
+    <!-- <script type="module" src="script.js"></script> -->
+    <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
+    <script src="script-cr-app.js"></script>
 </body>
 </html>
