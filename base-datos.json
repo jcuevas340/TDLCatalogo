@@ -6,7 +6,36 @@
         "img": "image-db/42819.webp",
         "marca": "DAYTON DORMAN",
         "conversiones": [
-            {"parte": "3535049C2", "marca": "NAVISTAR"}
+            {"parte": "3535049C2", "marca": "NAVISTAR"},
+            {"parte": "HLK7053", "marca": "AUTOMANN"}
+        ],
+        "aplicaciones":[
+            {"marca": "INTERNATIONAL", "modelo": "RH613", "años": "2018-2019"},
+            {"marca": "INTERNATIONAL", "modelo": "LT625", "años": "2017-2019"},
+            {"marca": "INTERNATIONAL", "modelo": "4100 SBA", "años": "2006-2008"},
+            {"marca": "INTERNATIONAL", "modelo": "8500", "años": "2002-2007"},
+            {"marca": "INTERNATIONAL", "modelo": "LoneStar", "años": "2009-2017"},
+            {"marca": "INTERNATIONAL", "modelo": "7700", "años": "2005-2007"},
+            {"marca": "INTERNATIONAL", "modelo": "ProStar", "años": "2008-2018"},
+            {"marca": "INTERNATIONAL", "modelo": "8500 TranStar", "años": "2008-2011"},
+            {"marca": "INTERNATIONAL", "modelo": "8600 TranStar", "años": "2008-2018"},
+            {"marca": "INTERNATIONAL", "modelo": "8600 SBA", "años": "2003-2007"},
+            {"marca": "INTERNATIONAL", "modelo": "7600", "años": "2003-2007, 2009-2017"},
+            {"marca": "INTERNATIONAL", "modelo": "7500", "años": "2002-2019"},
+            {"marca": "INTERNATIONAL", "modelo": "7300", "años": "2002-2018"},
+            {"marca": "INTERNATIONAL", "modelo": "4200LP", "años": "2003-2008"},
+            {"marca": "INTERNATIONAL", "modelo": "4200", "años": "2002-2010"},
+            {"marca": "INTERNATIONAL", "modelo": "RXT", "años": "2005-2008"},
+            {"marca": "INTERNATIONAL", "modelo": "4400", "años": "2002-2019"},
+            {"marca": "INTERNATIONAL", "modelo": "TerraStar", "años": "2010-2018"},
+            {"marca": "INTERNATIONAL", "modelo": "4300LP", "años": "2002-2018"},
+            {"marca": "INTERNATIONAL", "modelo": "MXT", "años": "2007-2009"},
+            {"marca": "INTERNATIONAL", "modelo": "CXT", "años": "2005-2008"},
+            {"marca": "INTERNATIONAL", "modelo": "4100", "años": "2006-2012"},
+            {"marca": "INTERNATIONAL", "modelo": "4300", "años": "2002-2019"},
+            {"marca": "INTERNATIONAL", "modelo": "4400LP", "años": "2002-2016"},
+            {"marca": "INTERNATIONAL", "modelo": "3200", "años": "2002-2011"},
+            {"marca": "IC Corporation", "modelo": "3200", "años": "2007"}
         ]
     },
     {
