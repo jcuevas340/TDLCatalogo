@@ -3629,6 +3629,36 @@
         "conversiones": [
             {"parte": "AH-7913", "marca": "SAKURA"}
         ]
+    },
+    {
+        "parte": "AH-1198",
+        "descripcion": "FILTRO AIRE CON CARCASA",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1198.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-7911", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-19497",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH19497.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-55040", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AS-2474",
+        "descripcion": "FILTRO SEPARADOR AIRE Y ACEITE",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH19497.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SAC-57010", "marca": "SAKURA"}
+        ]
     }
 
 
