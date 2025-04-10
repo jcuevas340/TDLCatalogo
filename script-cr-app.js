@@ -10,7 +10,6 @@ fetch('base-datos.json')
     .then(response => response.json())
     .then(data => {
         datos = data; // Guardamos los datos en la variable
-        filtrarProductos(); // Mostramos todos los productos al inicio
 
         // Agregamos eventos
         document.getElementById("btn-buscar").addEventListener("click", filtrarProductos);
@@ -20,18 +19,6 @@ fetch('base-datos.json')
             }
         });
         vaciarBuscador();
-
-        document.addEventListener("click", (e) => {
-            if (e.target.classList.contains("sumar")) {
-                agregarProducto(e.target);
-            }
-            if (e.target.classList.contains("restar")) {
-                quitarProducto(e.target);
-            }
-            if(e.target.classList.contains("carrito")){
-                agregarCarrito();
-            }
-        });
         
     })
     .catch(error => console.error("Error al cargar el JSON:", error));
@@ -45,7 +32,7 @@ function filtrarProductos() {
             producto.parte.toLowerCase().includes(busqueda) ||
             producto.descripcion.toLowerCase().includes(busqueda);
 
-        return coincideBusqueda && producto.marca.toLowerCase();
+        return coincideBusqueda;
     });
 
     mostrarResultados(resultados);
@@ -63,54 +50,51 @@ function mostrarResultados(productos) {
 
     productos.forEach(producto => {
         let div = document.createElement('div');
-        div.classList.add('producto');
+        div.classList.add('tabla-producto');
 
-        let img = document.createElement('img');
-        img.src = producto.img;
-        img.alt = producto.parte;
-        img.width = 150;
-        img.height = 150;
-        img.classList.add("imagen");
-        img.style.objectFit = "cover";
-
-        let h2 = document.createElement("h2");
-        h2.classList.add('parte');
+        let h2 = document.createElement('h2');
         h2.textContent = producto.parte;
 
-        let p = document.createElement("p");
-        p.classList.add('descripcion');
-        let descripcion = producto.descripcion.toLowerCase();
-        p.textContent = descripcion.charAt(0).toUpperCase() + descripcion.slice(1);
+        let h4 = document.createElement('h4');
+        h4.textContent = producto.marca;
 
-        let menos = document.createElement("button");
-        menos.classList.add("restar");
-        menos.textContent = "-";
-        menos.disabled = true; // Inicialmente deshabilitado
+        let table = document.createElement('table');
+        table.classList.add('tabla-conversiones');
 
-        let cantidadSpan = document.createElement("span");
-        cantidadSpan.classList.add("cantidad");
-        cantidadSpan.textContent = "0";
-        cantidadSpan.style.display = "none";
+        let thead = document.createElement('thead');
+        let tr = document.createElement('tr');
+        let thNumero = document.createElement('th');
+        let thMarca = document.createElement('th');
+        thNumero.textContent = "Numero de parte";
+        thMarca.textContent = "Marca";
+        tr.appendChild(thNumero); // ✅ Usamos la variable correcta
+        tr.appendChild(thMarca); // ✅ Usamos la variable correcta
+        thead.appendChild(tr);
+        table.appendChild(thead);
 
-        let mas = document.createElement("button");
-        mas.classList.add("sumar");
-        mas.textContent = "+";
+        let tbody = document.createElement('tbody');
+        producto.conversiones.forEach(conversion => {
+            let row = document.createElement('tr');
+            let tdNumero = document.createElement('td');
+            let tdMarca = document.createElement('td');
+            tdNumero.textContent = conversion.parte;
+            tdMarca.textContent = conversion.marca;
+            row.appendChild(tdNumero);
+            row.appendChild(tdMarca);
+            tbody.appendChild(row);
+        });
+        table.appendChild(tbody);
 
-        div.appendChild(img);
         div.appendChild(h2);
-        div.appendChild(p);
-        div.appendChild(menos);
-        div.appendChild(cantidadSpan);
-        div.appendChild(mas);
+        div.appendChild(h4);
+        div.appendChild(table);
         contenedor.appendChild(div);
     });
-
-    contenedor.appendChild(carritoBtn);
 }
+
 
 function vaciarBuscador() {
     document.getElementById("btn-borrar").addEventListener("click", () => {
         document.getElementById("buscar").value = '';
-        filtrarProductos();
     });
 }
