@@ -2178,14 +2178,14 @@
         "parte": "CC-2602",
         "descripcion": "KIT PRUEBA ANTICONGELANTE FLEETGUARD",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2602.jpg",
+        "img": "image-db/CC2602.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "CC-2610",
         "descripcion": "RESTORE FLEETGUARD 1 GL. LIMPIADOR",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2610.jpg",
+        "img": "image-db/CC2610.webp",
         "marca": "FLEETGUARD"
     },
     {
@@ -3559,6 +3559,106 @@
         "categoria": "FILTRO AIRE",
         "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AF987.jpg",
         "marca": "FLEETGUARD"
+    },
+    {
+        "parte": "AH-1101",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1101.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-5702", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-1103",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1103.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": ""}
+        ]
+    },
+    {
+        "parte": "AH-1107",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1107.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-7908", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-1135",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1135.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-7942", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-1189",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1189.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-7912", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-1193",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1193.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-1196",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1196.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-7913", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-1198",
+        "descripcion": "FILTRO AIRE CON CARCASA",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH1198.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-7911", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AH-19497",
+        "descripcion": "FILTRO AIRE",
+        "categoria": "FILTRO AIRE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH19497.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "AH-55040", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "AS-2474",
+        "descripcion": "FILTRO SEPARADOR AIRE Y ACEITE",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AH19497.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SAC-57010", "marca": "SAKURA"}
+        ]
     }
 
 
