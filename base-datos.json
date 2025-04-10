@@ -3659,6 +3659,146 @@
         "conversiones": [
             {"parte": "SAC-57010", "marca": "SAKURA"}
         ]
+    },
+    {
+        "parte": "AS-2495",
+        "descripcion": "FILTRO SEPARADOR AIRE Y ACEITE",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AS2495.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "EA-70010-S", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CC-2602",
+        "descripcion": "Prueba de anticongelante",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/AS2495.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CC-2610",
+        "descripcion": "Restore",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CC2610.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CC-2820",
+        "descripcion": "Anticongelante",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CC2820.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CC-2825",
+        "descripcion": "Porron anticongelante 50/50 listo para usar",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CC2825.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CC-2847",
+        "descripcion": "Cubeta anticongelante",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CC2825.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CC-2848",
+        "descripcion": "Porron anticongelante 5 gal. 50/50 listo para usar",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CC2848.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CH-41112",
+        "descripcion": "Filtro de centrifugacion de aceite",
+        "categoria": "FILTRO CENTRIFUGO",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CH41112.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CS-41008",
+        "descripcion": "Filtro de centrifugacion de aceite",
+        "categoria": "FILTRO CENTRIFUGO",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CS41008.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CS-41011",
+        "descripcion": "Filtro de centrifugacion de aceite",
+        "categoria": "FILTRO CENTRIFUGO",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CS41008.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CS-41043",
+        "descripcion": "Filtro de centrifugacion de aceite",
+        "categoria": "FILTRO CENTRIFUGO",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CS41043.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "C-54130", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CS-41044",
+        "descripcion": "Filtro de centrifugacion de aceite",
+        "categoria": "FILTRO CENTRIFUGO",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CS41044.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "C-26550", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CV-50628",
+        "descripcion": "Filtro de particulas",
+        "categoria": "FILTRO PARTICULAS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CV50628.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CV-50633",
+        "descripcion": "Filtro de particulas",
+        "categoria": "FILTRO PARTICULAS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CV50633.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
     }
 
 
