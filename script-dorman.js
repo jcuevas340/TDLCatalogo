@@ -44,8 +44,12 @@ function filtrarProductos() {
 
     let resultados = datos.filter(producto => {
         let coincideBusqueda = 
-            producto.parte.toLowerCase().includes(busqueda) ||
-            producto.descripcion.toLowerCase().includes(busqueda);
+        producto.parte.toLowerCase().includes(busqueda) ||
+        producto.descripcion.toLowerCase().includes(busqueda) ||
+        (producto.conversiones && producto.conversiones.some(conv =>
+            conv.parte.toLowerCase().includes(busqueda) ||
+            conv.marca.toLowerCase().includes(busqueda)
+        ));
 
         let coincideCategoria = categoriaSeleccionada === "OPCION" || producto.categoria.includes(categoriaSeleccionada);
 

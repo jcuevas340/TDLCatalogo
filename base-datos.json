@@ -3799,6 +3799,206 @@
         "conversiones": [
             {"parte": "", "marca": "SAKURA"}
         ]
+    },
+    {
+        "parte": "CV-50634",
+        "descripcion": "Filtro de particulas",
+        "categoria": "FILTRO PARTICULAS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CV50634.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CV-52001",
+        "descripcion": "Filtro de particulas",
+        "categoria": "FILTRO PARTICULAS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CV52001.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "CV-52055",
+        "descripcion": "Filtro de particulas",
+        "categoria": "FILTRO PARTICULAS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/CV52001.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "DCA60L",
+        "descripcion": "Adhitivo para anticongelante 473ml",
+        "categoria": "ADHITIVOS",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/DCA60L.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-105",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF105.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5720", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-146",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF146.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "F-2601", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-167",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF167.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5103", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-167A",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF167A.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-1702", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-185",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF185.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5501", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-200",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF200.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-202",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF202.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5703", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-203",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF203.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-204",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF204.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-7922", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-211",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF211.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5502", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-213",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF213.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-57270", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-2200",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF2200.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5726", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-2203",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF2203.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5714", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-224",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF224.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-2302", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-246",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF246.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-252",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF252.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-95030", "marca": "SAKURA"}
+        ]
     }
 
 

@@ -29,8 +29,17 @@ function filtrarProductos() {
 
     let resultados = datos.filter(producto => {
         let coincideBusqueda = 
-            producto.parte.toLowerCase().includes(busqueda) ||
-            producto.descripcion.toLowerCase().includes(busqueda);
+        producto.parte.toLowerCase().includes(busqueda) ||
+        producto.descripcion.toLowerCase().includes(busqueda) ||
+        (producto.conversiones && producto.conversiones.some(conv =>
+            conv.parte.toLowerCase().includes(busqueda) ||
+            conv.marca.toLowerCase().includes(busqueda)
+        )) || 
+        (producto.aplicaciones && producto.aplicaciones.some(app =>
+            app.marca.toLowerCase().includes(busqueda) ||
+            app.modelo.toLowerCase().includes(busqueda) ||
+            app.años.toLowerCase().includes(busqueda)
+        ));
 
         return coincideBusqueda;
     });
