@@ -3999,6 +3999,26 @@
         "conversiones": [
             {"parte": "FC-95030", "marca": "SAKURA"}
         ]
+    },
+    {
+        "parte": "FF-261",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF261.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-4052A",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF4052A.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-5101", "marca": "SAKURA"}
+        ]
     }
 
 
