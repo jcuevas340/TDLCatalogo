@@ -4019,7 +4019,104 @@
         "conversiones": [
             {"parte": "FC-5101", "marca": "SAKURA"}
         ]
+    },
+    {
+        "parte": "FF-5019",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5019.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-5020",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5020.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-5045",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5045.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"}
+        ]
+    },
+    {
+        "parte": "FF-5052",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5052.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-7903", "marca": "SAKURA"},
+            {"parte": "P550440", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FF-5053",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5053.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "F-2621", "marca": "SAKURA"},
+            {"parte": "P550481", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FF-5087",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5087.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-1016", "marca": "SAKURA"},
+            {"parte": "P550048", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FF-5089",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5089.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-1010", "marca": "SAKURA"},
+            {"parte": "P550932", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FF-5114",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5114.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550057", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FF-5160",
+        "descripcion": "Filtro de combustible",
+        "categoria": "FILTRO COMBUSTIBLE",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FF5160.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "FC-1001", "marca": "SAKURA"},
+            {"parte": "P550390", "marca": "DONALDSON"}
+        ]
     }
+    
 
 
 
