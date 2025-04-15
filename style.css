@@ -641,6 +641,11 @@ h5{
         align-items: center;
     }
 
+    #container{
+        display: flex;
+        flex-direction: column;
+    }
+
     .catalogos{
         width: 80vw;
         flex-direction: column;
