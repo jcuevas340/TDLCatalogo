@@ -26,6 +26,8 @@ fetch('base-datos.json')
 // Función para filtrar productos por búsqueda y categoría
 function filtrarProductos() {
     let busqueda = document.getElementById("buscar").value.toLowerCase();
+    busqueda = busqueda.replace("-", ""); // Eliminar guiones
+
 
     let resultados = datos.filter(producto => {
         let coincideBusqueda = 
