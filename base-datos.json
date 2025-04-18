@@ -6653,7 +6653,85 @@
                     "años": "2003-2014"
                 }
             ]
-        }
+        },
+    {
+        "parte": "NG5900",
+        "descripcion": "Filtro gas natural",
+        "categoria": "FILTRO GAS NATURAL",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/NG5900.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "P550735","marca": "DONALDSON"},
+            {"parte": "","marca": "SAKURA"},
+            {"parte": "5839NG5900","marca": "Mack"},
+            {"parte": "3607140","marca": "Cummins"}
+        ],
+        "aplicaciones": [
+            {"marca": "","modelo": "","años": "", "motor": ""},
+            {"marca": "","modelo": "","años": ""}
+        ]
+    },
+    {
+        "parte": "S-10275",
+        "descripcion": "Palanca de direccion",
+        "categoria": "ACCESORIOS",
+        "img": "image-db/S-10275.webp",
+        "marca": "NEWSTAR",
+        "conversiones": [
+            {"parte": "1481176","marca": "Grote"},
+            {"parte": "1481177","marca": "Freightliner"},
+            {"parte": "481177","marca": "Grote"},
+            {"parte": "48522","marca": "Grote"},
+            {"parte": "577.4601","marca": "Automann"},
+            {"parte": "577.46010","marca": "Automann"},
+            {"parte": "577.99005","marca": "Automann"},
+            {"parte": "621-999177","marca": "Mack"},
+            {"parte": "6220-01-357-1883","marca": "Perkins"},
+            {"parte": "740263","marca": "PAI"},
+            {"parte": "999177","marca": "VSM"},
+            {"parte": "FRT-GRO-01-4811-77","marca": "Genuine Newstar"},
+            {"parte": "GRO 01-4811-76","marca": "Freightliner"},
+            {"parte": "GRO 48522","marca": "Freightliner"},
+            {"parte": "GRO-01-4811-77","marca": "Freightliner"},
+            {"parte": "GRO1481177","marca": "Freightliner"},
+            {"parte": "PFGRO-01-4811-77","marca": "Freightliner"},
+            {"parte": "TL3005","marca": "Paccar"},
+            {"parte": "VSM999177","marca": "Volvo Truck"},
+            {"parte": "WA177275","marca": "World American"}
+        ]
+    },
+    {
+        "parte": "S-17331",
+        "descripcion": "Tapon tanque de combustible",
+        "categoria": "ACCESORIOS",
+        "img": "image-db/S-17331.webp",
+        "marca": "NEWSTAR",
+        "conversiones": [
+            {"parte": "508-010-C","marca": "Navistar"},
+            {"parte": "572.1011","marca": "Automann"},
+            {"parte": "918107","marca": "Tectran"},
+            {"parte": "FTA-C-15","marca": "ACE Manufacturing & Parts Company"},
+            {"parte": "IH508010C","marca": "Navistar"}
+        ]
+    },
+    {
+        "parte": "S-18255",
+        "descripcion": "Resorte porta manguera de aire",
+        "categoria": "ACCESORIOS",
+        "img": "image-db/S-18255 .webp",
+        "marca": "NEWSTAR",
+        "conversiones": [
+            {"parte": "038005","marca": "Velvac"},
+            {"parte": "11600","marca": "Haldex"},
+            {"parte": "11600M1D","marca": "Paccar"},
+            {"parte": "12-26000","marca": "Dayton Parts"},
+            {"parte": "17-125","marca": "Phillips"},
+            {"parte": "17-125DSP","marca": "Bendix"},
+            {"parte": "57QC186","marca": "Mack"},
+            {"parte": "701102","marca": "Volvo Truck"},
+            {"parte": "995207R","marca": "Navistar"}
+        ]
+    }
     
     
 
