@@ -2176,597 +2176,596 @@
     },
     {
         "parte": "CC2602",
-        "descripcion": "KIT PRUEBA ANTICONGELANTE FLEETGUARD",
+        "descripcion": "Kit prueba de anticongelante",
         "categoria": "ADHITIVOS",
         "img": "image-db/CC2602.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "CC2610",
-        "descripcion": "RESTORE FLEETGUARD 1 GL. LIMPIADOR",
+        "descripcion": "Restore 1gl. limpiador",
         "categoria": "ADHITIVOS",
         "img": "image-db/CC2610.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "CC2820",
-        "descripcion": "GALON REFRIGERANTE CONCENTRADO EG",
+        "descripcion": "REFRIGERANTE CONCENTRADO 1gl.",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2820.jpg",
+        "img": "image-db/CC2820.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "CC2825",
-        "descripcion": "GALON REFRIG FLEETGUARD 50/50 EG 3.78L",
+        "descripcion": "REFRIGERANTE 50/50 1GL.",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2825.jpg",
+        "img": "image-db/CC2825.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "CC2847",
-        "descripcion": "PORRON REFRIGERANT FLEETGUARD CONCEN 5GL",
+        "descripcion": "REFRIGERANTE CONCENTRADO 5GL.",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2847.jpg",
+        "img": "image-db/CC2847.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "CC2848",
-        "descripcion": "PORRON REFRIGERANTE 50/50 FLEETGUARD 5gl",
+        "descripcion": "REFRIGERANTE 50/50 5gl.",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/CC2848.jpg",
+        "img": "image-db/CC2848.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "DCA60L",
-        "descripcion": "BOTE INHIBIDOR DE CORROSION 473 ML",
+        "descripcion": "BOTE INHIBIDOR DE CORROSION 473ML.",
         "categoria": "ADHITIVOS",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/DCA60L.jpg",
+        "img": "image-db/DCA60L.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF14000NN",
-        "descripcion": "FILTRO ACEITE isx LF9080 P559000",
+        "descripcion": "FILTRO ACEITE",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF14000NN.jpg",
-        "marca": "FLEETGUARD"
-    },
-    {
-        "parte": "LF16015",
-        "descripcion": "FILTRO ACEITE FLEETGUARD P550520",
-        "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16015.jpg",
-        "marca": "FLEETGUARD"
+        "img": "image-db/LF14000NN.webp",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "LF9080", "marca":"FLEETGUARD"},
+            {"parte": "P559000", "marca":"DONALDSON"},
+            {"parte": "P559000", "marca":"DONALDSON"},
+            {"parte": "C57430", "marca":"SAKURA", "td":"C-57430"}
+        ]
     },
     {
         "parte": "LF16046",
         "descripcion": "FILTRO ACEITE M2 DD15 A0001801709 CASCAD",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16046.jpg",
+        "img": "image-db/LF16046.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16087",
         "descripcion": "FILTRO ACEITE PLANTA GENERACION",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16087.jpg",
+        "img": "image-db/LF16087.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16110",
         "descripcion": "FILTRO ACEITE HINO 500 (57190)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16110.jpg",
+        "img": "image-db/LF16110.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16166",
         "descripcion": "FILTRO ACEITE FORD 6.0 F450 P550528",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16166.jpg",
+        "img": "image-db/LF16166.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16173",
         "descripcion": "FILTRO ACEITE P/JHON DEERE",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16173.jpg",
+        "img": "image-db/LF16173.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16233",
         "descripcion": "FILTRO ACEITE P550812 1948921 MX13 PACCA",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16233.jpg",
+        "img": "image-db/LF16233.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16243",
         "descripcion": "FILTRO ACEITE P550779 57750S",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16243.jpg",
+        "img": "image-db/LF16243.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF16465",
         "descripcion": "FILTRO ACEITE D13/MP8 VOLVO 23151592",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF16465.jpg",
+        "img": "image-db/LF16465.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17056",
         "descripcion": "FILTRO ACEITE INTRNTNL MAN =LF16244",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17056.jpg",
+        "img": "image-db/LF17056.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17356",
         "descripcion": "FILTRO ACEITE FORD 6.0 / JAC",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17356.jpg",
+        "img": "image-db/LF17356.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17499",
         "descripcion": "FILTRO ACEITE MAXXFORCE 9 / 10",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17499.jpg",
+        "img": "image-db/LF17499.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17501",
         "descripcion": "FILTRO ACEITE ISUZU EO1501 400007",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17501.jpg",
+        "img": "image-db/LF17501.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17511",
         "descripcion": "FILTRO ACEITE CASCADIA DD15 A4731800109",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17511.jpg",
+        "img": "image-db/LF17511.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17514",
         "descripcion": "FILTRO ACEITE MAXXFORCE 13 PROSTAR",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17514.jpg",
+        "img": "image-db/LF17514.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17519",
         "descripcion": "FILTRO ACEITE MAXXFORCE =LF17549",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17519.jpg",
+        "img": "image-db/LF17519.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17549",
         "descripcion": "FILTRO ACEITE NAVISTAR LF17519 3015784C",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17549.jpg",
+        "img": "image-db/LF17549.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF17810",
         "descripcion": "FILTRO ACEITE MOTOR DD13 LF1700",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF17810.jpg",
+        "img": "image-db/LF17810.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3000",
         "descripcion": "FILTRO ACEITE N14/L10/M11/C92 P553000",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF3000.jpg",
+        "img": "image-db/CC2820.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3313",
         "descripcion": "FILTRO ACEITE DIF VOLVO PH8A =LF689",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3313.jpg",
+        "img": "image-db/LF3313.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3333",
         "descripcion": "FILTRO ACEITE FLEETGUARD (51970)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF3333.jpg",
+        "img": "image-db/LF3333.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3335",
         "descripcion": "FILTRO ACEITE P/TRANSM",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3335.jpg",
+        "img": "image-db/LF3335.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3341",
         "descripcion": "FILTRO ACEITE P/DIF 3280V8394 A3380W1687",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3341.jpg",
+        "img": "image-db/LF3341.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3342",
         "descripcion": "FILTRO ACEITE =BT230 =HF35323",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3342.jpg",
+        "img": "image-db/LF3342.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3344",
         "descripcion": "FILTRO ACEITE FORD 7.3 V8",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3344.jpg",
+        "img": "image-db/LF3344.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3345",
         "descripcion": "FILTRO ACEITE NAVISTAR (P558616)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3345.jpg",
+        "img": "image-db/LF3345.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3346",
         "descripcion": "FILTRO ACEITE NAVISTAR P551604 GP-88",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3346.jpg",
+        "img": "image-db/LF3346.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3349",
         "descripcion": "FILTRO ACEITE SERIE B P558615 1607",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3349.jpg",
+        "img": "image-db/LF3349.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3400",
         "descripcion": "FILTRO ACEITE DIFERENCIAL M2/CASCADIA",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3400.jpg",
+        "img": "image-db/LF3400.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3455",
         "descripcion": "FILTRO ACEITE NAVISTAR",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3455.jpg",
+        "img": "image-db/LF3455.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3462",
         "descripcion": "FILTRO ACEITE GENER LF3403 P550162 L200",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3462.jpg",
+        "img": "image-db/LF3462.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3564",
         "descripcion": "FILTRO ACEITE L200 MOTOR DIESEL =LFP805",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3564.jpg",
+        "img": "image-db/LF3564.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3620",
         "descripcion": "FILTRO ACEITE MOTOR S-60",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3620.jpg",
+        "img": "image-db/LF3620.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3630",
         "descripcion": "FILTRO ACEITE FORD 350 DIESEL P550371",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3630.jpg",
+        "img": "image-db/LF3630.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3654",
         "descripcion": "FILTRO ACEITE VOLVO 21707135",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3654.jpg",
+        "img": "image-db/LF3654.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3675",
         "descripcion": "FILTRO ACEITE P550519 23658111 VOLVO",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3675.jpg",
+        "img": "image-db/LF3675.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3689",
         "descripcion": "FILTRO ACEITE HINO MITSUBISHI 360",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3689.jpg",
+        "img": "image-db/LF3689.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3703",
         "descripcion": "FILTRO ACEITE P/JOHN DEERE",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3703.jpg",
+        "img": "image-db/LF3703.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3819",
         "descripcion": "FILTRO ACEITE P/THERMO KING",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3819.jpg",
+        "img": "image-db/LF3819.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3783",
         "descripcion": "FILTRO ACEITE P/TRACTOR AGRIC",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3783.jpg",
+        "img": "image-db/LF3783.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3827",
         "descripcion": "FILTRO ACEITE MERCEDES OM 904(P550768)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3827.jpg",
+        "img": "image-db/LF3827.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3828",
         "descripcion": "FILTRO ACEITE MITSUBISHI P502458 LFP3828",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3828.jpg",
+        "img": "image-db/LF3828.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3854",
         "descripcion": "FILTRO ACEITE ISUZU P502042 LF3807",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3854.jpg",
+        "img": "image-db/LF3854.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3883",
         "descripcion": "FILTRO ACEITE NAVISTAR =LF9026 P550367",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3883.jpg",
+        "img": "image-db/LF3883.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3914",
         "descripcion": "FILTRO ACEITE M. BENZ P550761 LF16144",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3914.jpg",
+        "img": "image-db/LF3914.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF3970",
         "descripcion": "FILTRO ACEITE (P550428-P551019)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF3970.jpg",
+        "img": "image-db/LF3970.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF516",
         "descripcion": "FILTRO ACEITE (LF516A)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF516.jpg",
+        "img": "image-db/CC2820.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF634",
         "descripcion": "FILTRO ACEITE HID.",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF634.jpg",
+        "img": "image-db/LF634.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF637",
         "descripcion": "FILTRO ACEITE HID.",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF637.jpg",
+        "img": "image-db/LF637.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF651",
         "descripcion": "FILTRO ACEITE TRANSM.",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF651.jpg",
+        "img": "image-db/LF651.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF654",
         "descripcion": "FILTRO ACEITE THERMO KING",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF654.jpg",
+        "img": "image-db/LF654.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF667",
         "descripcion": "FILTRO ACEITE = 1R0739",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF667.jpg",
+        "img": "image-db/LF667.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF670",
         "descripcion": "FILTRO ACEITE PRIMARIO (P551671)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF670.jpg",
+        "img": "image-db/LF670.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF680",
         "descripcion": "FILTRO ACEITE P/JOHN DEERE",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF680.jpg",
+        "img": "image-db/LF680.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF689",
         "descripcion": "FILTRO ACEITE DIF NISSAN MOTOR =LF3313",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF689.jpg",
+        "img": "image-db/LF689.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF691",
         "descripcion": "FILTRO ACEITE CAT P554105",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF691.jpg",
+        "img": "image-db/LF691.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF691A",
         "descripcion": "FILTRO ACEITE P/MOTOR CAT",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF691A.jpg",
+        "img": "image-db/LF691A.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF697",
         "descripcion": "FILTRO ACEITE",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF697.jpg",
+        "img": "image-db/LF697.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF699",
         "descripcion": "FILTRO ACEITE PERKINS",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF699.jpg",
+        "img": "image-db/LF699.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF734",
         "descripcion": "FILTRO ACEITE ( LF3478 )",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF734.jpg",
+        "img": "image-db/LF734.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF750A",
         "descripcion": "FILTRO ACEITE LUBER",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF750A.jpg",
+        "img": "image-db/LF750A.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF777",
         "descripcion": "FILTRO ACEITE SECUND (P550777)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF777.jpg",
+        "img": "image-db/LF777.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF9009",
         "descripcion": "FILTRO ACEITE N14/M11/L10/ISC =LF3000",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/LF9009.jpg",
+        "img": "image-db/LF9009.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF9025",
         "descripcion": "FILTRO ACEITE DT466E EGR (P552025)",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9025.jpg",
+        "img": "image-db/LF9025.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF9030",
         "descripcion": "FILTRO ACEITE T KING LFP9182 CARRIER",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9030.jpg",
+        "img": "image-db/LF9030.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF9035",
         "descripcion": "FILTRO ACEITE NAV i313",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9035.jpg",
+        "img": "image-db/LF9035.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "LF9070",
         "descripcion": "FILTRO ACEITE ISX SERV EXTENDIDO",
         "categoria": "FILTRO ACIETE",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/LF9070.jpg",
+        "img": "image-db/LF9070.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2051",
         "descripcion": "FILTRO REFRIGERANTE MOTOR",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/WF2051.jpg",
+        "img": "image-db/WF2051.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2071",
         "descripcion": "FILTRO AGUA =A WF2073",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/list/WF2071.jpg",
+        "img": "image-db/CC2820.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2073",
         "descripcion": "FILTRO REFRIGERANTE 8u. DCA4",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2073.jpg",
+        "img": "image-db/WF2073.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2074",
         "descripcion": "FILTRO AGUA 12u DCA4+",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2074.jpg",
+        "img": "image-db/WF2074.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2075",
         "descripcion": "FILTRO AGUA 15 UNIDADES WF2076",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2075.jpg",
+        "img": "image-db/WF2075.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2076",
         "descripcion": "FILTRO REFRIGERANTE 23 u DCA4+ WF2075",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2076.jpg",
+        "img": "image-db/WF2076.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2108",
         "descripcion": "FILTRO AGUA VOLVO MACK",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2108.jpg",
+        "img": "image-db/WF2108.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2122",
         "descripcion": "FILTRO REFRIGERANTE PACCAR MX13 1843659P",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2122.jpg",
+        "img": "image-db/WF2122.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2126",
         "descripcion": "FILTRO P/REFRIGERTANTE ISX  P550866",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2126.jpg",
+        "img": "image-db/WF2126.webp",
         "marca": "FLEETGUARD"
     },
     {
         "parte": "WF2127",
         "descripcion": "FILTRO REFRIGERANTE ISX",
         "categoria": "FILTRO AGUA",
-        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/WF2127.jpg",
+        "img": "image-db/WF2127.webp",
         "marca": "FLEETGUARD"
     },
     {
@@ -4448,15 +4447,2214 @@
     },
     {
         "parte": "FK13850NN",
-        "descripcion": "Filtro de combustible",
-        "categoria": "FILTRO COMBUSTIBLE",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
         "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK13850NN.jpg",
         "marca": "FLEETGUARD",
         "conversiones": [
             {"parte": "EF73080KIT", "marca": "SAKURA"},
             {"parte": "P551063", "marca": "DONALDSON"}
         ]
-    }
+    },
+    {
+        "parte": "FK22004",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK22004.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550948", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FK22005",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK22005.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "ES-54040-S", "marca": "SAKURA"},
+            {"parte": "P551625", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FK48000",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK48000.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "K-54010", "marca": "SAKURA"},
+            {"parte": "P550823", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FK48002",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK48002.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "EF-19050-S", "marca": "SAKURA"},
+            {"parte": "P550815", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FK48556",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK48556.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550954", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FK48556",
+        "descripcion": "Kit de filtros",
+        "categoria": "KIT",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FK48556.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550954", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1000",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1000.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5709-10", "marca": "SAKURA"},
+            {"parte": "P551000", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1003",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1003.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5509-10", "marca": "SAKURA"},
+            {"parte": "P551103", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1006",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1006.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5601-02", "marca": "SAKURA"},
+            {"parte": "P552006", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1007",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1007.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-55270", "marca": "SAKURA"},
+            {"parte": "P551047", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1011",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1011.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550447", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1015",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1015.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P553201", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1022",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1022.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5702-10", "marca": "SAKURA"},
+            {"parte": "P551122", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1029W",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1029W.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550463", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1040",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1040.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5521", "marca": "SAKURA"},
+            {"parte": "P551047", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1065",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1065.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5509-10", "marca": "SAKURA"},
+            {"parte": "P551103", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1206",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1206.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P552020", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1212",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1212.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5705", "marca": "SAKURA"},
+            {"parte": "P558000", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1240B",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1240B.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P502516", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1242",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1242.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-1905-10", "marca": "SAKURA"},
+            {"parte": "P551864", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1242B",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1242B.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1247",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1247.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-6901-30", "marca": "SAKURA"},
+            {"parte": "P551847", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1251",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1251.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5708", "marca": "SAKURA"},
+            {"parte": "P550248", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1253",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1253.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "", "marca": "SAKURA"},
+            {"parte": "P550931", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1280",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1280.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-5706", "marca": "SAKURA"},
+            {"parte": "P551329", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1281",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1281.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-1908-10", "marca": "SAKURA"},
+            {"parte": "P553375", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1287",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1287.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-1306-30", "marca": "SAKURA"},
+            {"parte": "P550730", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1291",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1291.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-54040", "marca": "SAKURA"},
+            {"parte": "P551034", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1291",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1291.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {"parte": "SFC-54040", "marca": "SAKURA"},
+            {"parte": "P551034", "marca": "DONALDSON"}
+        ]
+    },
+    {
+        "parte": "FS1295",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1295.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {
+                "parte": "SFC-54040",
+                "marca": "SAKURA"
+            },
+            {
+                "parte": "P551034",
+                "marca": "DONALDSON"
+            }
+        ],
+        "aplicaciones": [
+            {
+                "marca": "ISUZU",
+                "modelo": "FRR",
+                "años": "2008-2012"
+            },
+            {
+                "marca": "INTERNATIONAL",
+                "modelo": "4300",
+                "años": "2005-2010"
+            }
+        ]
+    },
+    {
+        "parte": "FS1298",
+        "descripcion": "Filtro separador agua/combustible",
+        "categoria": "FILTRO SEPARADOR",
+        "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS1298.jpg",
+        "marca": "FLEETGUARD",
+        "conversiones": [
+            {
+                "parte": "SFC-54040",
+                "marca": "SAKURA"
+            },
+            {
+                "parte": "P551034",
+                "marca": "DONALDSON"
+            }
+        ],
+        "aplicaciones": [
+            {
+                "marca": "ISUZU",
+                "modelo": "FRR",
+                "años": "2008-2012"
+            },
+            {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19513",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19513.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19519",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19519.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19519V",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19519V.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19520",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19520.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19521",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19521.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19532",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19532.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19547",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19547.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19551",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19551.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19559",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19559.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19574",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19574.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19580",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19580.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19580A",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19580A.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19581",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19581.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19591",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19591.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19593",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19593.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19598",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19598.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19624",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19624.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19657",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19657.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19684E",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19684E.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19704",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19704.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19729",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19729.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19732",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19732.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19735",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19735.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19763",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19763.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19764",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19764.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19765",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19765.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19797",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19797.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19799",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19799.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19837",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19837.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19839",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19839.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19855",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19855.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19905G",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19905G.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19914",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19914.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19915",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19915.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19932",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19932.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS19966",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS19966.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20000",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20000.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20007",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20007.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20040",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20040.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20047",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20047.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20075",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20075.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20087",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20087.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20103",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20103.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20172",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20172.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20173",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20173.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20176",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20176.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS20223",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS20223.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS36243",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS36243.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                { "parte": "SFC-54040", "marca": "SAKURA" },
+                { "parte": "P551034", "marca": "DONALDSON" }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS36253",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS36253.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS36401",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS36401.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "FS43255",
+            "descripcion": "Filtro separador agua/combustible",
+            "categoria": "FILTRO SEPARADOR",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/FS43255.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "SFC-54040",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P551034",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "HF35296",
+            "descripcion": "Filtro hidraulico",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF35296.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "TC-7901",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P550606",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "HF35387",
+            "descripcion": "Filtro hidraulico",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF35387.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "TC-7901",
+                    "marca": "SAKURA"
+                },
+                {
+                    "parte": "P550606",
+                    "marca": "DONALDSON"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "ISUZU",
+                    "modelo": "FRR",
+                    "años": "2008-2012"
+                },
+                {
+                    "marca": "INTERNATIONAL",
+                    "modelo": "4300",
+                    "años": "2005-2010"
+                }
+            ]
+        },
+        {
+            "parte": "HF35387",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF35387.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P35387",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH35387",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF35476",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF35476.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P35476",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH35476",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF6097",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF6097.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P6097",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH6097",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF6162",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF6162.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P6162",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH6162",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF6165",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF6165.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P6165",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH6165",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF6316",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF6316.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P6316",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH6316",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF6710",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF6710.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P6710",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH6710",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HF7535",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HF7535.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P7535",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SH7535",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "HFKW800T",
+            "descripcion": "Filtro hidraulico de alto rendimiento",
+            "categoria": "FILTRO HIDRAULICO",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/HFKW800T.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "PKW800T",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "SHKW800T",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        },
+        {
+            "parte": "NG5900",
+            "descripcion": "Filtro gas natural",
+            "categoria": "FILTRO GAS NATURAL",
+            "img": "https://d7g69anyp3s9e.cloudfront.net/raw/NG5900.jpg",
+            "marca": "FLEETGUARD",
+            "conversiones": [
+                {
+                    "parte": "P550735",
+                    "marca": "DONALDSON"
+                },
+                {
+                    "parte": "",
+                    "marca": "SAKURA"
+                }
+            ],
+            "aplicaciones": [
+                {
+                    "marca": "CATERPILLAR",
+                    "modelo": "320D",
+                    "años": "2005-2015"
+                },
+                {
+                    "marca": "KOMATSU",
+                    "modelo": "PC200",
+                    "años": "2003-2014"
+                }
+            ]
+        }
+    
     
 
 
